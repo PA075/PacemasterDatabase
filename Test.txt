@@ -1,1 +1,1 @@
-To check push on local server
+To check push from local server to database server.
