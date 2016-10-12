@@ -1,1 +1,1 @@
-Testing GIT on database server.
+Testing GIT on local and database server.
