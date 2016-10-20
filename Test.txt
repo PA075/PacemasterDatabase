@@ -1,1 +1,1 @@
-To check push from local server to database server. Added on 17-Oct-2016.
+To check push from local server to database server. Added on 20-Oct-2016.
