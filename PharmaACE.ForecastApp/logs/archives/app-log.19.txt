@@ -1,0 +1,1020 @@
+2017-08-10 10:43:30.7715|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 10:44:12.6362|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /Home/SignInTest?email=vinod.singh%40pharmaace.com&password=User%40123&_=1502342011453: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-10 10:47:57.8915|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 10:47:57.8955|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 10:47:57.9697|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 10:47:57.9737|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 10:48:07.1819|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 10:48:08.8927|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 10:48:08.9057|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 10:48:09.5010|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 10:48:12.0055|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 10:48:17.4033|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 10:48:17.4444|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 11:01:15.2257|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 11:01:32.9274|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 11:01:32.9374|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 11:01:32.9964|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 11:01:32.9964|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 11:01:41.6833|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 11:01:42.8664|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 11:01:42.9184|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 11:01:43.4825|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 11:13:04.7714|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 11:13:10.0914|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 11:13:10.2024|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 11:19:26.7854|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 11:19:33.4441|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 11:19:33.5541|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 11:20:12.3320|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-10 11:20:13.2841|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 11:20:13.8001|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-10 11:26:36.8784|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-10 11:26:46.5204|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 11:26:46.6214|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 11:26:47.7574|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 11:30:52.5894|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 11:30:57.8874|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 11:30:58.2084|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 11:31:10.6344|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 11:40:38.6544|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 11:40:42.5444|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 11:40:42.6784|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 11:41:00.1094|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 11:41:04.4074|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 11:41:04.5344|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 12:04:17.0354|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:15:07.3489|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseArea/DiseaseDetail?DiseaseName=Allergic%20Rhinitis&SearchType=0: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source)
+   at PharmaACE.ForecastApp.Business.GenUtil.GetTenantConnectionStringWithoutDispose(Int32 tenantId, MasterModel masterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 849
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Init() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1579
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1585
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-10 13:15:54.5950|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:15:56.9958|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 13:16:01.3261|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 13:16:01.5191|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:16:17.5919|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/SaveEditedDetail
+2017-08-10 13:16:17.9471|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Save Edited Details successfully
+2017-08-10 13:21:48.0403|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:21:56.1852|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 13:21:59.7705|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 13:21:59.9775|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:23:02.2878|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:29:15.8010|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 13:29:32.3170|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:29:48.9400|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 13:29:51.8950|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 13:29:52.7070|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: Object reference not set to an instance of an object.
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Rollback() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1622
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnException(ExceptionContext filterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 64
+   at System.Web.Mvc.Controller.System.Web.Mvc.IExceptionFilter.OnException(ExceptionContext filterContext)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeExceptionFilters(ControllerContext controllerContext, IList`1 filters, Exception exception)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 13:29:58.2780|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:50:13.6330|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside UserWorkSpace/Index
+2017-08-10 13:50:13.6630|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Getting RootFolder values
+2017-08-10 13:50:14.1400|INFO|PharmaACE.ForecastApp.Controllers.BaseController|RootFolder values Length :12
+2017-08-10 13:50:22.8750|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Content/fonts/glyphicons-halflings-regular.woff2' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 13:50:23.0370|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:50:23.1100|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Forecast/GetAllUsers
+2017-08-10 13:50:23.1540|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Login User Id :30
+2017-08-10 13:50:23.1810|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Getting users list
+2017-08-10 13:50:23.2190|INFO|PharmaACE.ForecastApp.Controllers.BaseController|UsersListCount :15
+2017-08-10 13:50:23.2560|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Got AllUsers List
+2017-08-10 13:50:23.3420|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Successfully got all users list
+2017-08-10 13:50:23.5870|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Forecast/GetUserListForAutocomplete
+2017-08-10 13:50:23.6090|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Getting users list for autocomplete
+2017-08-10 13:50:23.7310|INFO|PharmaACE.ForecastApp.Controllers.BaseController|AutocompleteUsersList :15
+2017-08-10 13:50:23.7440|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Got Autocomplete Users list
+2017-08-10 13:50:23.7580|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Successfully got all users list for autocomplete
+2017-08-10 13:50:24.1170|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside UserWorkSpace/fetchFilePermission
+2017-08-10 13:50:24.6150|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside UserWorkSpace/fetchFolderPermission
+2017-08-10 13:50:24.6370|INFO|PharmaACE.ForecastApp.Controllers.BaseController|fetch Folder Permission Successful
+2017-08-10 13:50:25.1270|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside UserWorkSpace/fetchPermission
+2017-08-10 13:53:45.0570|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside CommunityPractice/Index
+2017-08-10 13:53:47.2820|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:53:47.4260|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/Index
+2017-08-10 13:53:47.4860|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Got News feed successfully
+2017-08-10 13:53:49.3910|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside CommunityPractice/LatestQuestions
+2017-08-10 13:53:49.7600|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:53:49.8210|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/GetRegulatoryKeywordsForLink
+2017-08-10 13:53:49.9000|INFO|PharmaACE.ForecastApp.Controllers.BaseController|successfully get Regulatory Keywords For Link
+2017-08-10 13:53:50.0120|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/GetFeedNewsStatic
+2017-08-10 13:53:50.0290|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Generic divOrder:1
+2017-08-10 13:53:50.0450|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/GetTopRatedFeeds
+2017-08-10 13:53:52.8920|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/UpdateCaption
+2017-08-10 13:53:52.9910|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Update Caption successful
+2017-08-10 13:53:53.2730|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.2940|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.3120|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.3340|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.3870|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.4060|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.4500|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.4830|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.5040|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.5250|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.5450|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.5680|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.5880|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.6100|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.6340|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.6560|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.6790|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.7060|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.7280|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:53.7490|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.4710|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.4950|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.5190|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.5410|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.5600|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.5810|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.6030|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.6270|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.6480|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.6780|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.7010|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:55.7220|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:56.6460|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:56.7550|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:56.7820|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:56.8100|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:56.8330|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:56.8590|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:56.8880|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:56.9150|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:56.9530|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:58.8480|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:58.8770|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:58.8980|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:58.9430|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:58.9670|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:53:58.9930|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:54:00.2500|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:54:00.2830|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:54:00.3120|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside LiveFeed/getRatingHtml
+2017-08-10 13:54:00.3730|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Got Top Stories successfully
+2017-08-10 13:54:01.0030|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside CommunityPractice/ViewAnswer
+2017-08-10 13:54:01.5840|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:54:40.5240|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:55:04.3560|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 13:55:04.3750|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 13:55:04.8550|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:55:09.0340|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 13:55:13.2090|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 13:55:13.3600|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:55:43.6090|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseAreaSearch
+2017-08-10 13:55:45.8050|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/IndicationsSearch
+2017-08-10 13:55:46.2400|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:57:54.2410|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 13:57:57.3200|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 13:57:57.3370|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 13:57:57.7540|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 14:00:48.1970|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 14:00:48.4010|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 14:00:51.0820|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 14:01:55.7150|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 14:02:33.2370|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 14:02:33.2500|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 14:02:33.3010|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 14:02:33.3170|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 14:02:47.1830|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 14:02:47.6400|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 14:02:49.1220|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 14:02:50.4960|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 14:05:47.8010|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 14:05:50.2010|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 14:05:51.9700|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 14:10:17.0920|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 14:10:17.2380|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 14:10:20.8110|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 14:11:19.2250|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 14:11:19.2720|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 14:11:21.7350|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 14:31:19.0650|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 14:31:41.7200|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 14:31:41.7330|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 14:31:41.8130|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 14:31:41.8130|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 14:31:58.1180|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 14:31:58.7090|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 14:31:59.8040|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 14:32:00.3210|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 14:34:15.4600|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 14:34:18.2410|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 14:34:20.3350|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 14:35:18.1630|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 14:35:18.2800|INFO|PharmaACE.ForecastApp.Controllers.BaseController|New disease area added successfully
+2017-08-10 14:35:40.9670|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 14:37:12.1210|INFO|PharmaACE.ForecastApp.Controllers.BaseController|New disease area added successfully
+2017-08-10 14:37:12.6400|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: Object reference not set to an instance of an object.
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Rollback() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1622
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnException(ExceptionContext filterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 64
+   at System.Web.Mvc.Controller.System.Web.Mvc.IExceptionFilter.OnException(ExceptionContext filterContext)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeExceptionFilters(ControllerContext controllerContext, IList`1 filters, Exception exception)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 14:45:04.8370|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 14:45:24.8530|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 14:45:24.8660|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 14:45:24.9010|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 14:45:24.9010|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 14:46:48.1630|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 15:44:40.2830|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseArea: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source)
+   at PharmaACE.ForecastApp.Business.GenUtil.GetTenantConnectionStringWithoutDispose(Int32 tenantId, MasterModel masterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 849
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Init() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1579
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1585
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-10 15:45:05.0710|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseArea: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source)
+   at PharmaACE.ForecastApp.Business.GenUtil.GetTenantConnectionStringWithoutDispose(Int32 tenantId, MasterModel masterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 849
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Init() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1579
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1585
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-10 15:45:09.8290|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /Home/GetUserNotification?_=1502360109681: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source)
+   at PharmaACE.ForecastApp.Business.GenUtil.GetTenantConnectionStringWithoutDispose(Int32 tenantId, MasterModel masterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 849
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Init() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1579
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1585
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-10 15:46:02.5962|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseArea: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source)
+   at PharmaACE.ForecastApp.Business.GenUtil.GetTenantConnectionStringWithoutDispose(Int32 tenantId, MasterModel masterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 849
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Init() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1579
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1585
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-10 15:47:00.2011|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /Home/GetUserNotification?_=1502360164836: An error occurred while executing the command definition. See the inner exception for details.
+   at System.Data.Entity.Core.EntityClient.Internal.EntityCommandDefinition.ExecuteStoreCommands(EntityCommand entityCommand, CommandBehavior behavior)
+   at System.Data.Entity.Core.Objects.Internal.ObjectQueryExecutionPlan.Execute[TResultType](ObjectContext context, ObjectParameterCollection parameterValues)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__6()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source)
+   at PharmaACE.ForecastApp.Business.GenUtil.GetTenantConnectionStringWithoutDispose(Int32 tenantId, MasterModel masterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 849
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Init() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1579
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1585
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-10 15:47:00.6046|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 15:47:08.2585|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 15:47:09.0666|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 15:48:54.2516|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseArea/AddNewDiseaseArea: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source)
+   at PharmaACE.ForecastApp.Business.GenUtil.GetTenantConnectionStringWithoutDispose(Int32 tenantId, MasterModel masterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 849
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Init() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1579
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1585
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-10 15:49:19.2095|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 15:49:19.3236|INFO|PharmaACE.ForecastApp.Controllers.BaseController|New disease area added successfully
+2017-08-10 15:49:19.3967|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 15:49:19.4278|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 15:49:19.5019|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 15:49:19.5239|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 15:49:19.6160|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 15:49:19.6471|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 15:49:19.6821|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 15:49:19.7011|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 15:49:19.7542|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 15:49:19.7712|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 15:49:20.0466|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 15:49:20.0616|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 15:49:20.4292|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 15:49:20.4682|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 15:49:20.5804|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 15:49:20.5954|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 15:49:20.8237|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 15:49:20.8237|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 15:49:21.8321|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 15:49:21.8411|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 15:53:55.3810|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 15:53:57.7461|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 15:53:58.2534|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 15:54:52.0033|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 15:54:52.0213|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 15:54:55.3719|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 15:56:16.3934|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 15:56:16.4605|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 15:56:19.0297|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 15:56:38.7226|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 15:56:38.7636|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 15:56:42.5225|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:04:09.7554|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:04:09.9414|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:04:13.8724|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:05:33.9973|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:05:34.0603|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:05:34.4794|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:10:28.6534|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:10:28.8164|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:10:31.7014|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:13:20.3934|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:13:20.4474|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:13:23.6084|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:14:54.5064|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:14:54.5754|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:14:58.3334|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:15:50.5654|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:15:50.7894|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:15:53.6544|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:16:16.2964|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:16:16.3594|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:16:17.4324|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:18:37.2154|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 16:18:37.2284|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 16:18:39.1534|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 16:18:39.1534|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 16:18:39.6944|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 16:18:39.6944|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 16:18:39.8144|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 16:18:39.8264|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 16:18:39.9794|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 16:18:39.9794|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 16:18:40.2014|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 16:18:40.2154|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 16:18:40.4814|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 16:18:40.5044|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 16:19:17.0354|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 16:19:51.0424|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 16:20:58.3284|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: Object reference not set to an instance of an object.
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Rollback() in G:\8-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1622
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnException(ExceptionContext filterContext) in G:\8-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 64
+   at System.Web.Mvc.Controller.System.Web.Mvc.IExceptionFilter.OnException(ExceptionContext filterContext)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeExceptionFilters(ControllerContext controllerContext, IList`1 filters, Exception exception)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 16:22:16.6822|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:22:17.3823|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:22:20.8646|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:22:40.4556|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:22:40.5276|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:22:43.7409|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:23:47.5693|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:23:47.6173|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:23:48.0773|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:24:05.4021|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:24:05.4321|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:24:05.8441|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:24:15.1630|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:24:15.1900|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:24:18.6724|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:27:35.0434|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:27:35.2364|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:27:39.7224|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:28:35.5054|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:28:35.5644|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:28:38.8244|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:30:17.8564|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 16:31:38.0384|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 16:31:38.0544|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 16:31:38.1474|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 16:31:38.1624|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 16:31:51.1404|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside UserWorkSpace/Index
+2017-08-10 16:31:51.1554|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Getting RootFolder values
+2017-08-10 16:31:53.0164|INFO|PharmaACE.ForecastApp.Controllers.BaseController|RootFolder values Length :12
+2017-08-10 16:31:59.3224|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:32:00.6354|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:32:01.3374|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:32:01.9244|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside UserWorkSpace/Index
+2017-08-10 16:32:01.9744|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Getting RootFolder values
+2017-08-10 16:32:02.1284|INFO|PharmaACE.ForecastApp.Controllers.BaseController|RootFolder values Length :12
+2017-08-10 16:32:02.4644|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:32:02.9504|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:32:03.0634|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Forecast/GetUserListForAutocomplete
+2017-08-10 16:32:03.1174|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Getting users list for autocomplete
+2017-08-10 16:32:03.1674|INFO|PharmaACE.ForecastApp.Controllers.BaseController|AutocompleteUsersList :15
+2017-08-10 16:32:03.1674|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Got Autocomplete Users list
+2017-08-10 16:32:03.1804|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Successfully got all users list for autocomplete
+2017-08-10 16:32:03.4554|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside UserWorkSpace/fetchFilePermission
+2017-08-10 16:32:03.5434|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Forecast/GetAllUsers
+2017-08-10 16:32:03.5434|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Login User Id :30
+2017-08-10 16:32:03.5564|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Getting users list
+2017-08-10 16:32:03.5694|INFO|PharmaACE.ForecastApp.Controllers.BaseController|UsersListCount :15
+2017-08-10 16:32:03.5694|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Got AllUsers List
+2017-08-10 16:32:03.5814|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Successfully got all users list
+2017-08-10 16:32:03.9954|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Content/fonts/glyphicons-halflings-regular.woff2' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 16:32:04.4704|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside UserWorkSpace/fetchFolderPermission
+2017-08-10 16:32:04.4704|INFO|PharmaACE.ForecastApp.Controllers.BaseController|fetch Folder Permission Successful
+2017-08-10 16:32:04.9784|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside UserWorkSpace/fetchPermission
+2017-08-10 16:32:07.2554|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 16:32:07.5774|INFO|PharmaACE.ForecastApp.Controllers.BaseController|New disease area added successfully
+2017-08-10 16:39:05.9124|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 16:39:18.0884|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 16:39:18.0984|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 16:39:18.1484|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 16:39:18.1624|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 16:39:26.9264|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:39:27.9034|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:39:27.9684|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:39:28.4844|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:42:37.4244|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 16:42:53.1854|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 16:42:53.2004|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 16:42:53.2844|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 16:42:53.2964|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 16:43:03.5374|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:43:04.9974|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:43:05.0504|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:08.2494|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:08.3664|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:08.4644|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:08.5564|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:08.6634|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:08.7554|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:08.8554|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:08.9524|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:09.0664|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:09.1634|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:09.3564|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:09.4424|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:10.0624|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:10.1594|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:10.2544|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:10.3914|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:10.4844|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:10.5764|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:10.6774|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:10.7684|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:10.8684|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:10.9784|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:11.0824|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:11.1854|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:11.2904|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:11.3934|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:11.6364|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:11.7404|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:11.8324|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:11.9254|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:12.0394|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:12.7194|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:12.8224|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:12.9934|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:13.2474|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:13.3714|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:14.3514|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:14.4504|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:14.5544|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:14.8674|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:14.9654|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:15.0584|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:15.1744|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:15.2734|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:16.0614|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:16.1584|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:16.2654|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:16.3504|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:16.9014|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:17.0114|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:17.1054|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:17.1894|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:17.2854|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:17.3824|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:17.4834|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:17.5664|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:17.6364|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:18.2434|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:18.3314|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:18.4034|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:18.4744|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:18.5924|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:18.6804|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:18.7934|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:18.8784|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:18.9704|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:19.0634|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:19.1724|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:19.2934|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:19.3854|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:19.4944|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:19.5984|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:19.6994|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:19.7954|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:43:19.8934|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:44:23.6574|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 16:45:39.9334|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 16:45:39.9414|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 16:45:39.9734|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 16:45:39.9814|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 16:45:50.8374|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:45:51.9724|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:45:52.0224|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:55.3274|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:55.4114|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:55.5024|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:55.6974|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:55.7814|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:55.8544|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:55.9304|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:56.0584|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:56.4704|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:56.6154|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:56.6774|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:56.7344|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:56.8184|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:56.8864|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:56.9624|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:57.0264|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:57.1114|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:57.2064|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:57.3044|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:58.6344|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:58.7334|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:59.1554|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:59.2464|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:59.3294|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:59.4244|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:59.5144|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:59.5944|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:59.6904|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:59.7814|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:45:59.8624|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:01.0604|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:01.1514|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:01.2204|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:01.2844|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:02.1034|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:02.1904|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:02.2714|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:02.4494|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:02.5314|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:02.6114|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:02.7274|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:02.8164|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:02.9434|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:03.0384|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:03.1244|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:03.2164|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:03.3044|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:03.3794|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:03.4854|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:04.3214|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:04.4264|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:05.1024|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:05.2234|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:05.3094|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:05.4034|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:05.6174|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:05.7254|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:05.8084|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:06.0204|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:06.1604|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:06.2774|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:06.3944|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:07.1444|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:07.2454|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:07.3324|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:07.4174|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:07.4974|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:07.5914|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:07.6944|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:07.7774|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:07.8734|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:07.9694|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:08.1074|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:08.1994|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:08.2964|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:46:08.3954|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:51:49.6084|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 16:52:02.3544|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 16:52:02.3624|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 16:52:02.3994|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 16:52:02.4074|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 16:52:12.5604|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:52:13.6304|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:52:13.6964|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:52:16.3974|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:52:38.2904|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 16:52:38.3484|INFO|PharmaACE.ForecastApp.Controllers.BaseController|New disease area added successfully
+2017-08-10 16:52:51.5694|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:52:51.6634|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:52:52.6084|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:52:58.3114|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:52:58.3284|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:52:59.3124|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:54:12.6924|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:54:12.7144|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:54:16.1184|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:54:19.4404|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:54:21.0204|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:54:21.0684|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:54:21.3644|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:54:41.5934|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:54:41.6544|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 16:58:24.9234|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 16:58:43.2054|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 16:58:43.4354|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 17:05:36.7742|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:06:52.1807|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 17:07:11.4547|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 17:07:11.4637|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 17:07:11.5477|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 17:07:11.5567|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 17:07:23.6255|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:07:24.4114|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 17:07:26.3472|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 17:07:27.2142|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:07:34.8424|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 17:07:35.2154|INFO|PharmaACE.ForecastApp.Controllers.BaseController|New disease area added successfully
+2017-08-10 17:07:43.7695|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 17:07:43.7825|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 17:07:44.2485|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:11:33.6864|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 17:14:25.9184|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 17:14:51.4204|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 17:14:51.4284|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 17:14:51.4754|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 17:14:51.4854|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 17:15:03.1534|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:15:04.9124|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 17:15:06.3374|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 17:15:26.7254|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:16:26.0164|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 17:16:27.7974|INFO|PharmaACE.ForecastApp.Controllers.BaseController|New disease area added successfully
+2017-08-10 17:16:29.5654|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 17:16:30.5554|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Disease area with same name already exists
+2017-08-10 17:17:15.9824|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 17:17:16.0114|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 17:17:17.7814|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:17:19.1234|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 17:17:19.1534|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 17:17:21.1214|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:17:22.3774|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 17:17:22.4154|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 17:17:24.2384|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:22:50.5484|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 17:22:53.3494|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 17:23:00.7724|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:23:20.7754|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 17:23:22.1994|INFO|PharmaACE.ForecastApp.Controllers.BaseController|New disease area added successfully
+2017-08-10 17:24:40.1924|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 17:24:40.2804|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 17:24:52.3954|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:25:06.2354|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 17:25:06.2474|INFO|PharmaACE.ForecastApp.Controllers.BaseController|New disease area added successfully
+2017-08-10 17:25:32.4224|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 17:25:32.4774|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 17:25:32.9714|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:27:37.1084|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-08-10 17:27:43.0204|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-10 17:27:43.1704|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 17:27:44.8314|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 18:54:36.6504|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 18:55:35.1349|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 18:55:35.1349|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 18:55:35.2424|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 18:55:35.2699|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 18:55:46.1870|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 18:55:47.5205|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 18:55:48.8726|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 18:55:49.4781|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 18:57:14.3312|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/AddNewDiseaseArea
+2017-08-10 18:57:14.4612|INFO|PharmaACE.ForecastApp.Controllers.BaseController|New disease area added successfully
+2017-08-10 19:07:27.7722|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:07:30.3451|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:07:31.9471|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 19:17:43.6175|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:17:44.3869|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:17:47.8583|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 19:18:50.3951|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:18:50.4576|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:18:51.4866|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 19:18:55.6929|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:18:55.7129|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:18:56.8689|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 19:19:30.4868|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:19:30.5093|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:19:31.4313|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 19:20:13.9091|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-10 19:20:34.6587|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-10 19:20:34.6737|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-10 19:20:34.7562|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-10 19:20:34.7687|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-10 19:21:03.5322|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 19:21:04.4092|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:21:06.1416|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:21:06.9601|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 19:21:07.1051|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:21:07.1321|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:21:07.6252|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:21:07.6392|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:21:08.6844|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:21:08.6864|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:22:59.3128|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:23:00.4970|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:23:06.7543|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 19:27:03.9532|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:27:04.0623|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:27:04.9753|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 19:27:09.0446|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 19:27:09.0546|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 19:27:09.3736|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 20:27:10.1907|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 20:27:10.2727|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 20:27:11.0082|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 20:27:14.6793|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 20:27:14.6923|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 20:27:15.9091|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 20:28:08.4177|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 20:28:08.4267|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 20:28:09.2832|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 20:30:19.0369|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 20:30:19.1009|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 20:30:19.7073|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-10 20:30:21.3622|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-08-10 20:30:21.4073|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-08-10 20:30:21.9706|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification

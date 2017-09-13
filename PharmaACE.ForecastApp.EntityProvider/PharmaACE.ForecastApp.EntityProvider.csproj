@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D621E844-9609-4A12-A50F-DCAA6E232785}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PharmaACE.ForecastApp.EntityProvider</RootNamespace>
+    <AssemblyName>PharmaACE.ForecastApp.EntityProvider</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\PharmaACE.ForecastApp\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\PharmaACE.ForecastApp\bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.Extended">
+      <HintPath>..\References\EntityFramework.Extended.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServerCompact, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.SqlServerCompact.6.1.3\lib\net45\EntityFramework.SqlServerCompact.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Compact.4.0.8876.1\lib\net40\System.Data.SqlServerCe.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="pacemaster\AnalystEstimate.cs" />
+    <Compile Include="pacemaster\APIInformation.cs" />
+    <Compile Include="pacemaster\AuthorizedGenericMapping.cs" />
+    <Compile Include="pacemaster\CompanyGenericPlayersMapping.cs" />
+    <Compile Include="pacemaster\CompanyMaster.cs" />
+    <Compile Include="pacemaster\CompanyTransactionMapping.cs" />
+    <Compile Include="pacemaster\DeviceUserMapping.cs" />
+    <Compile Include="pacemaster\DiseaseAreaMapping.cs" />
+    <Compile Include="pacemaster\DiseaseAreaMaster.cs" />
+    <Compile Include="pacemaster\DiseaseIndicationData.cs" />
+    <Compile Include="pacemaster\DivisionCompanyMaster.cs" />
+    <Compile Include="pacemaster\DivisionMaster.cs" />
+    <Compile Include="pacemaster\DivisionRegulatoryMaster.cs" />
+    <Compile Include="pacemaster\DivisionUserMapping.cs" />
+    <Compile Include="pacemaster\DMFHolderName.cs" />
+    <Compile Include="pacemaster\DosageForm.cs" />
+    <Compile Include="pacemaster\Dosages.cs" />
+    <Compile Include="pacemaster\Exclusivity.cs" />
+    <Compile Include="pacemaster\ExclusivityCodeMaster.cs" />
+    <Compile Include="pacemaster\ExclusivityInfo.cs" />
+    <Compile Include="pacemaster\ExclusivityTransaction.cs" />
+    <Compile Include="pacemaster\FormMaster.cs" />
+    <Compile Include="pacemaster\ForumAnswer.cs" />
+    <Compile Include="pacemaster\ForumAttachment.cs" />
+    <Compile Include="pacemaster\ForumQuestion.cs" />
+    <Compile Include="pacemaster\FTFHolderGenericMapping.cs" />
+    <Compile Include="pacemaster\GenericAvailability.cs" />
+    <Compile Include="pacemaster\GenericName.cs" />
+    <Compile Include="pacemaster\GroupMaster.cs" />
+    <Compile Include="pacemaster\GroupUserMapping.cs" />
+    <Compile Include="pacemaster\IndicationMapping.cs" />
+    <Compile Include="pacemaster\IndicationMaster.cs" />
+    <Compile Include="pacemaster\IndicationMediaDetail.cs" />
+    <Compile Include="pacemaster\IndicationMediaDetails.cs" />
+    <Compile Include="pacemaster\IndicationReferenceMapping.cs" />
+    <Compile Include="pacemaster\IndicationTransactionMapping.cs" />
+    <Compile Include="pacemaster\InlineTransaction.cs" />
+    <Compile Include="pacemaster\Link.cs" />
+    <Compile Include="pacemaster\MOA_Master.cs" />
+    <Compile Include="pacemaster\MOA_TransactionMapping.cs" />
+    <Compile Include="pacemaster\MasterModel.cs" />
+    <Compile Include="pacemaster\MoleculeMapping.cs" />
+    <Compile Include="pacemaster\MoleculeMaster.cs" />
+    <Compile Include="pacemaster\MoleculeRegimenMapping.cs" />
+    <Compile Include="pacemaster\MoleculeTransactionMapping.cs" />
+    <Compile Include="pacemaster\NADAC_PricingUnitMaster.cs" />
+    <Compile Include="pacemaster\NewPatent\CompanyMaster.cs" />
+    <Compile Include="pacemaster\NewPatent\Transaction.cs" />
+    <Compile Include="pacemaster\NewTreatment\Model13we4r567.cs" />
+    <Compile Include="pacemaster\NewTreatment\PharmaClassMaster.cs" />
+    <Compile Include="pacemaster\NewTreatment\TreatmentRegimenDetail.cs" />
+    <Compile Include="pacemaster\PatentCodeMaster.cs" />
+    <Compile Include="pacemaster\PatentInfo.cs" />
+    <Compile Include="pacemaster\PatentType.cs" />
+    <Compile Include="pacemaster\PatentUseCode.cs" />
+    <Compile Include="pacemaster\PharmaClassMapping.cs" />
+    <Compile Include="pacemaster\PharmaClassMaster.cs" />
+    <Compile Include="pacemaster\PhaseMaster.cs" />
+    <Compile Include="pacemaster\PipelineProcessedData.cs" />
+    <Compile Include="pacemaster\PipelineSearchData.cs" />
+    <Compile Include="pacemaster\Price.cs" />
+    <Compile Include="pacemaster\PriceSourceMaster.cs" />
+    <Compile Include="pacemaster\ProductCategoryMaster.cs" />
+    <Compile Include="pacemaster\ProductCodeBrand.cs" />
+    <Compile Include="pacemaster\ProductCodeMaster.cs" />
+    <Compile Include="pacemaster\ProductInformation.cs" />
+    <Compile Include="pacemaster\ProductMaster.cs" />
+    <Compile Include="pacemaster\ProductSummary.cs" />
+    <Compile Include="pacemaster\ProductTransactionMapping.cs" />
+    <Compile Include="pacemaster\ProductTypeMaster.cs" />
+    <Compile Include="pacemaster\ReferenceMaster.cs" />
+    <Compile Include="pacemaster\RegimenMaster.cs" />
+    <Compile Include="pacemaster\RegimenTransactionMapping.cs" />
+    <Compile Include="pacemaster\RegulatoryStrategy.cs" />
+    <Compile Include="pacemaster\ResetPasswordRequestDetails.cs" />
+    <Compile Include="pacemaster\ROA_Master.cs" />
+    <Compile Include="pacemaster\ROA_TransactionMapping.cs" />
+    <Compile Include="pacemaster\SalesInformation.cs" />
+    <Compile Include="pacemaster\Strength.cs" />
+    <Compile Include="pacemaster\SubscriberMaster.cs" />
+    <Compile Include="pacemaster\SubstanceMaster.cs" />
+    <Compile Include="pacemaster\DiseaseTransaction.cs" />
+    <Compile Include="pacemaster\PipelineTransaction.cs" />
+    <Compile Include="pacemaster\TenantModelExtension.cs" />
+    <Compile Include="pacemaster\TreatmentRegimenDetail.cs" />
+    <Compile Include="pacemaster\Unit.cs" />
+    <Compile Include="pacemaster\UserAccess.cs" />
+    <Compile Include="pacemaster\UserAccessForecastPlatform.cs" />
+    <Compile Include="pacemaster\UserMaster.cs" />
+    <Compile Include="pacemaster\UserNotifications.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TenantModel\ActivityDetailsMaster.cs" />
+    <Compile Include="TenantModel\ActivityMaster.cs" />
+    <Compile Include="TenantModel\BDLAdvancedPricing.cs" />
+    <Compile Include="TenantModel\ActharAssumptionAttachmentMapping.cs" />
+    <Compile Include="TenantModel\BDLAssumptionAttachmentMapping.cs" />
+    <Compile Include="TenantModel\BDLForecastFlatFileMaster.cs" />
+    <Compile Include="TenantModel\BDLForecastTemplateMaster.cs" />
+    <Compile Include="TenantModel\BDLScenarioDetails.cs" />
+    <Compile Include="TenantModel\DealDetail.cs" />
+    <Compile Include="TenantModel\FilteredNews.cs" />
+    <Compile Include="TenantModel\GenericAssumptionAttachmentMapping.cs" />
+    <Compile Include="TenantModel\ActharAssumptions.cs" />
+    <Compile Include="TenantModel\BDLAssumptions.cs" />
+    <Compile Include="TenantModel\GenericAssumptions.cs" />
+    <Compile Include="TenantModel\AttachamentMaster.cs" />
+    <Compile Include="TenantModel\GenericCompetitorDetails.cs" />
+    <Compile Include="TenantModel\GenericCompetitorMaster.cs" />
+    <Compile Include="TenantModel\BDLConversionData.cs" />
+    <Compile Include="TenantModel\BDLCountryMaster.cs" />
+    <Compile Include="TenantModel\DashboardMaster.cs" />
+    <Compile Include="TenantModel\DashboardUserMapping.cs" />
+    <Compile Include="TenantModel\DivisionProductMaster.cs" />
+    <Compile Include="TenantModel\BDLEPI_Data.cs" />
+    <Compile Include="TenantModel\BDLEvent.cs" />
+    <Compile Include="TenantModel\GenericEvent.cs" />
+    <Compile Include="TenantModel\FeedItemMapping.cs" />
+    <Compile Include="TenantModel\FeedItemMaster.cs" />
+    <Compile Include="TenantModel\FeedSettingMaster.cs" />
+    <Compile Include="TenantModel\FeedSourceMaster.cs" />
+    <Compile Include="TenantModel\FeedUserMaster.cs" />
+    <Compile Include="TenantModel\ActharForecastData.cs" />
+    <Compile Include="TenantModel\GenericForecastData.cs" />
+    <Compile Include="TenantModel\ForecastDataVersions.cs" />
+    <Compile Include="TenantModel\ActharHistoricalData.cs" />
+    <Compile Include="TenantModel\BDLHistoricalData.cs" />
+    <Compile Include="TenantModel\GenericForecastFlatFileMaster.cs" />
+    <Compile Include="TenantModel\GenericForecastTemplateMaster.cs" />
+    <Compile Include="TenantModel\GenericHistoricalData.cs" />
+    <Compile Include="TenantModel\ActharHistoricalDataVersions.cs" />
+    <Compile Include="TenantModel\ActharIndicationMaster.cs" />
+    <Compile Include="TenantModel\BDLIndicationReference.cs" />
+    <Compile Include="TenantModel\BDLSectionDetails.cs" />
+    <Compile Include="TenantModel\ObjectMaster.cs" />
+    <Compile Include="TenantModel\ObjectUserMapping.cs" />
+    <Compile Include="TenantModel\ObjUserPermission.cs" />
+    <Compile Include="TenantModel\ProjectFolderList.cs" />
+    <Compile Include="TenantModel\StageMaster.cs" />
+    <Compile Include="TenantModel\TenantModelExtension.cs" />
+    <Compile Include="TenantModel\MasterSendEmail.cs" />
+    <Compile Include="TenantModel\GenericNPA_Data.cs" />
+    <Compile Include="TenantModel\GenericNSP_Data.cs" />
+    <Compile Include="TenantModel\BDLOutputData.cs" />
+    <Compile Include="TenantModel\GenericPackInfo.cs" />
+    <Compile Include="TenantModel\GenericPackMaster.cs" />
+    <Compile Include="TenantModel\BDLParameterMaster.cs" />
+    <Compile Include="TenantModel\GenericParameterMaster.cs" />
+    <Compile Include="TenantModel\BDLParameterSelectionType.cs" />
+    <Compile Include="TenantModel\GenericPenetrationTypeData.cs" />
+    <Compile Include="TenantModel\BDLProductDetails.cs" />
+    <Compile Include="TenantModel\GenericProductDetails.cs" />
+    <Compile Include="TenantModel\BDLProductMaster.cs" />
+    <Compile Include="TenantModel\GenericProductMaster.cs" />
+    <Compile Include="TenantModel\BDLProjectDetails.cs" />
+    <Compile Include="TenantModel\ActharProjectMaster.cs" />
+    <Compile Include="TenantModel\BDLProjectMaster.cs" />
+    <Compile Include="TenantModel\GenericProjectMaster.cs" />
+    <Compile Include="TenantModel\ActharProjectVersion.cs" />
+    <Compile Include="TenantModel\BDLProjectVersion.cs" />
+    <Compile Include="TenantModel\GenericProjectVersion.cs" />
+    <Compile Include="TenantModel\GenericProjectVersionDetails.cs" />
+    <Compile Include="TenantModel\BDLProjectVersionProduct.cs" />
+    <Compile Include="TenantModel\GenericProjectVersionProduct.cs" />
+    <Compile Include="TenantModel\GenericRepackagers.cs" />
+    <Compile Include="TenantModel\ReportConfigurationMaster.cs" />
+    <Compile Include="TenantModel\ReportDashboardMapping.cs" />
+    <Compile Include="TenantModel\ReportMaster.cs" />
+    <Compile Include="TenantModel\ReportUserMapping.cs" />
+    <Compile Include="TenantModel\GenericScenarioDetails.cs" />
+    <Compile Include="TenantModel\BDLScenarioMaster.cs" />
+    <Compile Include="TenantModel\GenericScenarioMaster.cs" />
+    <Compile Include="TenantModel\BDLSectionMaster.cs" />
+    <Compile Include="TenantModel\GenericSectionMaster.cs" />
+    <Compile Include="TenantModel\BDLSegmentDetails.cs" />
+    <Compile Include="TenantModel\BDLSegmentDetailsData.cs" />
+    <Compile Include="TenantModel\BDLSegmentLevelMaster.cs" />
+    <Compile Include="TenantModel\BDLSegmentMaster.cs" />
+    <Compile Include="TenantModel\BDLSegmentVersion.cs" />
+    <Compile Include="TenantModel\BDLShare.cs" />
+    <Compile Include="TenantModel\GenericSKU_Details.cs" />
+    <Compile Include="TenantModel\GenericSKU_Master.cs" />
+    <Compile Include="TenantModel\BDLSource.cs" />
+    <Compile Include="TenantModel\BDLSourceData.cs" />
+    <Compile Include="TenantModel\ActharSubGroupMaster.cs" />
+    <Compile Include="TenantModel\TenantModel.cs" />
+    <Compile Include="TenantModel\ActharTotalData.cs" />
+    <Compile Include="TenantModel\ActharUserForecastMapping.cs" />
+    <Compile Include="TenantModel\BDLUserForecastMapping.cs" />
+    <Compile Include="TenantModel\GenericUserForecastMapping.cs" />
+    <Compile Include="TenantModel\BDLUserForecastSectionMapping.cs" />
+    <Compile Include="TenantModel\UserMaster.cs" />
+    <Compile Include="TenantModel\TenantUserNotifications.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    if not exist "$(TargetDir)x86" md "$(TargetDir)x86"
+    xcopy /s /y "$(SolutionDir)packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\*.*" "$(TargetDir)x86"
+    if not exist "$(TargetDir)amd64" md "$(TargetDir)amd64"
+    xcopy /s /y "$(SolutionDir)packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\*.*" "$(TargetDir)amd64"</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

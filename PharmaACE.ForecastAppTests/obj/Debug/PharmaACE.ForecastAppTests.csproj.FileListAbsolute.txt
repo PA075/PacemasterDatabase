@@ -1,0 +1,1072 @@
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\SourceCode\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\SourceCode\New\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\SourceCode\New\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\New\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\4\New\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\NLog.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\NLog.xml
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.xml
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\NLog.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\NLog.xml
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\NLog.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\NLog.xml
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.xml
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\WebActivatorEx.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ninject.Web.Common.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ninject.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.xml
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.xml
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\WebActivatorEx.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ninject.Web.Common.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ninject.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.xml
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.xml
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\WebActivatorEx.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ninject.Web.Common.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ninject.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.xml
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.xml
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\WebActivatorEx.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Ninject.Web.Common.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Ninject.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\NLog.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\NLog.xml
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.xml
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\WebActivatorEx.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ninject.Web.Common.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ninject.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.xml
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.xml
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\WebActivatorEx.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Ninject.Web.Common.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Ninject.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Ionic.Zip.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Optimization.HashCache.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Http.WebHost.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Net.Http.Formatting.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Newtonsoft.Json.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.Extended.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.IdentityModel.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaKMWebApp.pdb
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.xml
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Business.pdb
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.pdb
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\HtmlAgilityPack.xml
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\MvcReportViewer.pdb
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\itextsharp.xml
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.EntityProvider.pdb
+E:\working\PharmaACE.ForecastAppTests\bin\Debug\DocumentFormat.OpenXml.xml
+E:\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+E:\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+E:\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\7-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\18-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\21-7-17newworking\working - Copy\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\25-7-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\References\Microsoft.Web.Infrastructure.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\References\EntityFramework.SqlServer.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\NLog.config
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll.config
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastAppTests.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Mvc.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.Razor.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\bin\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.csprojResolveAssemblyReference.cache
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastAppTests\obj\Debug\PharmaACE.ForecastAppTests.pdb

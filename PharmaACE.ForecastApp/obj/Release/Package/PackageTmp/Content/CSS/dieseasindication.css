@@ -1,0 +1,219 @@
+﻿ #breadcrumb {
+            display: none;
+        }
+
+        #disarea .display-label {
+            width: 100%;
+            float: left;
+            position: relative;
+            clear: both;
+        }
+
+        #disarea h2 {
+            float: left;
+        }
+
+        #disarea .display-field {
+            word-break: keep-all;
+        }
+
+        #disarea .htmlEdit {
+            margin-top: 14px;
+            margin-left: 15px;
+            display: none;
+            /* display: inline-block*/;
+        }
+
+        #disarea .tab-content h2 {
+            margin-top: 10px;
+        }
+
+        #disarea .tab-content {
+            padding: 0px;
+        }
+
+        .note-editor {
+            margin-bottom: 15px !important;
+        }
+
+            .note-editor.note-frame {
+                width: 100%;
+                float: left;
+                margin-bottom: 0px;
+            }
+
+        .note-editable {
+            height: 300px !important;
+        }
+
+            .note-editable p {
+                line-height: 22px;
+                font-size: 14px;
+            }
+
+        .comforDiv {
+            width: 100%;
+            clear: both;
+        }
+
+        .alnRight {
+            float: right;
+        }
+
+            .alnRight .btn {
+                margin-top: 0px;
+                display: none;
+            }
+
+        .alignleft {
+            padding-right: 8px;
+        }
+
+        #forSlider {
+            display: none;
+        } 
+.dmDiv1{height:500px;}
+.dmDiv2{overflow:hidden; margin-top:15px;}
+.sidebar-collapse .nav li a {
+        padding: 2px 4px 5px 5px;
+        color:#fff;
+        display:block;
+        padding-top:5px !important;
+        font-size:13.5px;
+    }
+    .diesmenuseconitem:before{ top:12px !important;}
+    #content-box{ min-height:448px; }
+    .nav .mCSB_container > li {
+        border-bottom: 1px solid rgba(107, 108, 109, 0.19);
+    }
+   .nav .mCSB_container li a:hover,
+   .nav .mCSB_container a:focus {
+        background: #c90000;
+        outline: 0;
+    }
+   .nav .mCSB_container li > a:hover::after {
+   /* border-color: transparent transparent transparent #c90000;*/
+    border-width: 19px 22px;
+    content: "";
+  border-style:none !important;
+    width:1px !important;
+     height:32px;
+    position: absolute;
+    right: -44px;
+    top: 0;
+}
+    .nav .mCSB_container li > a.active-menu::after, .nav .mCSB_container li > a.active-menu::after {
+    /*border-color: transparent transparent transparent #c90000;*/
+    border-style: solid;
+    border-width: 19px 22px;
+    content: "";
+    height: auto;
+    position: absolute;
+    right: -44px;
+    top: 0;
+    width: auto;
+}
+    .nav .mCSB_container .nav-second-level li a{ padding-left:26px !important;}
+    .nav .mCSB_container li .nav-second-level a:first-child{display:none;}
+     .nav .mCSB_container .nav-second-level > li > a::after, .nav-third-level > li > a::after {
+    left: 10px;
+   }
+     .nav .mCSB_container .nav-second-level > li > a::before, .nav-third-level > li > a::before {
+    left: 10px;
+    top:15px;
+}
+                                             /* jssor slider bullet navigator skin 05 css */
+                                        /*
+        .jssorb05 div           (normal)
+        .jssorb05 div:hover     (normal mouseover)
+        .jssorb05 .av           (active)
+        .jssorb05 .av:hover     (active mouseover)
+        .jssorb05 .dn           (mousedown)
+        */
+                                        .jssorb05 {
+                                            position: absolute;
+                                        }
+
+                                            .jssorb05 div, .jssorb05 div:hover, .jssorb05 .av {
+                                                position: absolute;
+                                                /* size of bullet elment */
+                                                width: 16px;
+                                                height: 16px;
+                                                background: url('../../sliderImages/b05.png') no-repeat;
+                                                overflow: hidden;
+                                                cursor: pointer;
+                                            }
+
+                                            .jssorb05 div {
+                                                background-position: -7px -7px;
+                                            }
+
+                                                .jssorb05 div:hover, .jssorb05 .av:hover {
+                                                    background-position: -37px -7px;
+                                                }
+
+                                            .jssorb05 .av {
+                                                background-position: -67px -7px;
+                                            }
+
+                                            .jssorb05 .dn, .jssorb05 .dn:hover {
+                                                background-position: -97px -7px;
+                                            }
+
+                                        /* jssor slider arrow navigator skin 12 css */
+                                        /*
+        .jssora12l                  (normal)
+        .jssora12r                  (normal)
+        .jssora12l:hover            (normal mouseover)
+        .jssora12r:hover            (normal mouseover)
+        .jssora12l.jssora12ldn      (mousedown)
+        .jssora12r.jssora12rdn      (mousedown)
+        */
+                                        .jssora12l, .jssora12r {
+                                            display: block;
+                                            position: absolute;
+                                            /* size of arrow element */
+                                            width: 30px;
+                                            height: 46px;
+                                            cursor: pointer;
+                                            background: url('../../sliderImages/a12.png') no-repeat;
+                                            overflow: hidden;
+                                        }
+
+                                        .jssora12l {
+                                            background-position: -16px -37px;
+                                        }
+
+                                        .jssora12r {
+                                            background-position: -75px -37px;
+                                        }
+
+                                        .jssora12l:hover {
+                                            background-position: -136px -37px;
+                                        }
+
+                                        .jssora12r:hover {
+                                            background-position: -195px -37px;
+                                        }
+
+                                        .jssora12l.jssora12ldn {
+                                            background-position: -256px -37px;
+                                        }
+
+                                        .jssora12r.jssora12rdn {
+                                            background-position: -315px -37px;
+                                        }
+.ddDiv1{position: relative; margin: 0 auto; top: 0px; left: 0px; width: 800px; height: 360px; overflow: hidden; visibility: hidden;}
+.ddDiv2{position: absolute; top: 0px; left: 0px;background-color: rgba(0, 0, 0, 0.7);}
+.ddDiv3{cursor: default; position: relative; top: 0px; left: 0px; width: 800px; height: 360px; overflow: hidden;}
+.ddDiv4{bottom: 16px; right: 16px;}
+.ddDiv5{width: 16px; height: 16px;}
+.ddDiv6{top: 0px; left: 0px; width: 30px; height: 46px;}
+.ddDiv7{top: 0px; right: 0px; width: 30px; height: 46px;}
+.ddDiv8{padding-right: 0px;}
+.ddDiv9{word-break: keep-all;}
+.ddDiv10{margin-top: 15px;}
+.ui-autocomplete{z-index:9999 !important; background-color:#f1f1f1; opacity:0.85; max-height:80px !important;}
+.ui-autocomplete li{ margin:0px; padding:0px; line-height:1.7em; }
+.ui-autocomplete li:hover{color:#f9f9f9 !important; cursor:pointer !important;background-color:#f1f1f1;}
+.ddDiv11{ text-align:center; vertical-align:middle;}

@@ -1,0 +1,56 @@
+2017-07-21 11:02:34.1502|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-07-21 11:03:14.6597|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-07-21 11:03:14.6597|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-07-21 11:03:14.7122|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-07-21 11:03:14.7197|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-07-21 11:03:26.5802|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-07-21 11:03:28.0052|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-07-21 11:03:30.0487|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-07-21 11:03:30.7152|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-07-21 11:03:34.0632|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-07-21 11:03:35.7277|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-07-21 11:03:36.2067|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-07-21 11:03:49.6127|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Content/font/summernote.woff' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-07-21 11:03:50.5357|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Content/font/summernote.ttf' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-07-21 11:03:57.2317|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/SaveEditedDetail
+2017-07-21 11:03:57.3827|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Save Edited Details successfully
+2017-07-21 11:04:09.6282|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/SaveEditedDetail
+2017-07-21 11:04:09.6632|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Save Edited Details successfully
+2017-07-21 11:04:18.0322|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/Index
+2017-07-21 11:04:18.0622|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside _DiseaseIndicationMenu/Index
+2017-07-21 11:04:19.3537|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-07-21 11:04:22.2522|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside DiseaseArea/DiseaseDetail
+2017-07-21 11:04:22.8977|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/sliderImages/b05.png' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-07-21 11:04:23.5882|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification

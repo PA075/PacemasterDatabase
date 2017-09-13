@@ -1,0 +1,15 @@
+G:\7-7-17newworking\working\Kentor.AuthServices\bin\Release\Kentor.AuthServices.XML
+G:\7-7-17newworking\working\Kentor.AuthServices\bin\Release\Kentor.AuthServices.dll
+G:\7-7-17newworking\working\Kentor.AuthServices\bin\Release\Kentor.AuthServices.pdb
+G:\7-7-17newworking\working\Kentor.AuthServices\obj\Release\Kentor.AuthServices.dll
+G:\7-7-17newworking\working\Kentor.AuthServices\obj\Release\Kentor.AuthServices.pdb
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices\bin\Release\Kentor.AuthServices.XML
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices\bin\Release\Kentor.AuthServices.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices\bin\Release\Kentor.AuthServices.pdb
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices\obj\Release\Kentor.AuthServices.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices\obj\Release\Kentor.AuthServices.pdb
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices\bin\Release\Kentor.AuthServices.XML
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices\bin\Release\Kentor.AuthServices.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices\bin\Release\Kentor.AuthServices.pdb
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices\obj\Release\Kentor.AuthServices.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices\obj\Release\Kentor.AuthServices.pdb

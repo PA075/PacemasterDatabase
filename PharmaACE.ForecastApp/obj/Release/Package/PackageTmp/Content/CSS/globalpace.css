@@ -1,0 +1,392 @@
+﻿@media 
+	only screen and (max-width: 760px),
+	(min-device-width: 768px) and (max-device-width: 1024px)  {
+		/* Force table to not be like tables anymore */
+		#drugsid #example.drugsearch table, #TreatmentOverview table,  
+        #drugsid #example.drugsearch thead, #TreatmentOverview thead , 
+        #drugsid #example.drugsearch tbody, #TreatmentOverview tbody, 
+        #drugsid #example.drugsearch th, #TreatmentOverview th, 
+        #drugsid #example.drugsearch td, #TreatmentOverview td, 
+        #drugsid #example.drugsearch tr, #TreatmentOverview tr { 
+			display: block; 
+		}
+		/* Hide table headers (but not display: none;, for accessibility) */
+		#drugsid #example.drugsearch thead tr,#TreatmentOverview thead tr  { 
+			position: absolute;
+			top: -9999px;
+			left: -9999px;
+		}
+       #tblthead th:first-child, #tblbody td:first-child{ text-align:left;width:auto !important;}
+		#drugsid #example.drugsearch tr { border: 1px solid #ccc; }
+		#drugsid #example.drugsearch td, #TreatmentOverview td { 
+			/* Behave  like a "row" */
+			border: none;
+			border-bottom: 1px solid #eee; 
+			position: relative;
+			padding-left: 50%; 
+            width:49% ;
+		}
+		#drugsid #example.drugsearch td:before,  #TreatmentOverview td:before { 
+			/* Now like a table header */
+			position: absolute;
+			/* Top/left values mimic padding */
+			top: 6px;
+			left: 6px;
+			width: 45%; 
+			padding-right: 10px; 
+			white-space: nowrap;
+		}
+		/*
+		Label the data
+		*/
+		#drugsid #example.drugsearch td:nth-of-type(1):before { content: "SNO."; }
+		#drugsid #example.drugsearch td:nth-of-type(2):before { content: "Product"; }
+		#drugsid #example.drugsearch td:nth-of-type(3):before { content: "Molecule"; }
+		#drugsid #example.drugsearch td:nth-of-type(4):before { content: "Pharma Class"; }
+		#drugsid #example.drugsearch td:nth-of-type(5):before { content: "Manufacturer"; }
+		#drugsid #example.drugsearch td:nth-of-type(6):before { content: "Indication"; }
+		#drugsid #example.drugsearch td:nth-of-type(7):before { content: "Route Of Administration"; }
+		#drugsid #example.drugsearch td:nth-of-type(8):before { content: "Marketing Date/Phase"; }
+         #TreatmentOverview td:nth-of-type(1):before { content: "Treatment Regimens"; }
+		#TreatmentOverview td:nth-of-type(2):before { content: "Class Summary"; }
+		#TreatmentOverview td:nth-of-type(3):before { content: "Molecule"; }
+	}
+    #km-home-page #tblsummury{top:-71px;}
+    #km-home-page #SearchResult{margin-top:76px;}
+    #SearchResult{clear:both;}
+    .display-field{word-break:break-all;}
+  .navbar-nav .dropdown-menu a{color:#262626;}
+    #tabmenu .nav > li > a{padding: 7.7px 4px;}
+   #myprofileid.dropdown-menu{right:60px; left:initial; position:absolute; background-color:#fff; left:auto;}
+   #myprofileid.dropdown-menu a:hover{color:#333;}
+   #header-icons{padding:0px;}
+    #headerbar .logo .img-responsive{max-width:16%}
+    #headerbar.navbar{height:45px;}
+    #menu-burger.navbar{min-height:30px;}
+    #navbarCollapse {
+        background-color:#c00;
+    }
+    #headerbar ul.social-share li#liImages a.dropdown-toggle{padding:0px;}
+    #headerbar ul.social-share{margin:0px; padding:0px; margin-top:12px;}
+     #headerbar .top-menu{margin-top:0px;}
+     #header-icons .navbar-left {
+    width:33.33%;
+    float:left;
+}
+     #headerbar .logo .img-responsive{margin-top:2px;}
+#header-icons .social {
+    width:33.33%;
+    margin:0 auto;
+}
+#header-icons .navbar-nav{ margin: 0 auto;}
+#header-icons #flyerbox{
+    width:33.33%;
+    float:left;
+}
+    #page-content-wrapper {
+        padding: 10px;
+        position: relative;
+        background-color: #e7e6e6;
+        min-height: 559px;
+        min-height: calc(100% - 98px);
+        min-height: -webkit-calc(100% - 98px);
+    }
+     @-moz-document url-prefix() {
+    #page-content-wrapper {
+   min-height:559px;
+         }
+}
+       @media screen and (-webkit-min-device-pixel-ratio:0) { 
+  #content-box,  #customBox{ min-height:526px !important; }
+}
+     #header-menu .navbar-nav, #header-icons .navbar-nav{
+  margin-top: 8px;
+ }
+#headerbar h2{ font-size:21px ;}
+#header-icons{max-width:100px;}
+#menu-burger{display:none;}
+#navbarCollapse.navbar-collapse.collapse{ }
+#navbarCollapse.navbar-collapse.collapse{ display:none !important}
+#navbarCollapse.navbar-collapse.collapse.in{display:block !important;}
+#navbarCollapse li{ width:100%; display:inline-block;}
+#navbarCollapse li a{padding:3px 0px; color:#fff;}
+#navbarCollapse li.active a{color:#080101;}
+#navbarCollapse li a:hover{background:none; color:#080101;}
+#navbarCollapse .nav > li > a:focus, #navbarCollapse .nav > li > a:hover{ background:none;}
+#header-menu .navbar-toggle{ padding:3px 4px;  margin:4px 4px 0px 4px;}
+#menu-burger{ padding-top:8px;}
+#menu-burger  button{height:28px;}
+#breadcrumb-title{text-align: left; font-weight: bold;}
+#customBox{ clear:both;min-height:521px;
+    min-height:calc(100% - 56px);
+     min-height:-webkit-calc(100% - 56px);  clear:both;
+}
+#overview .dropdown-menu > li{display:inline;}
+#overview .nav-tabs ul.dropdown-menu{width:auto;}
+#tblsummury{display:block;}
+#summurySlider{display:none;}
+#SearchResult #tblsummury {top:-60px; width:300px;
+}
+        .SliderSidebarContent{width:0px; background-color:#eee;}
+        .SliderSidebar select{ width:100%; font-size:12px;}
+        .SliderSidebar .toggleText{
+    width:31px;
+    text-align:left;
+    font-weight:400;
+    cursor:pointer;
+    color: #ffffff;
+     color: #fff;
+    display: block;
+    position: relative;
+    top: 5px;
+    transform: rotate(90deg);
+    white-space: nowrap;
+        }
+        .form-wrapper_right{
+}
+        .SliderSidebar .toggleText span{background-color: #c00000;
+   -webkit-border-radius: 0px 0 10px 10px;
+    -moz-border-radius:0px 0 10px 10px;
+    border-radius: 0px 0 10px 10px;
+    opacity:0.72;
+    padding: 7px;}
+        .SliderSidebar .control-label{ text-align:left; font-weight:normal; font-size:12px; padding-top:0px;}
+        .SliderSidebar .form-control{font-size:12px; color:#000;}
+         .SliderSidebar .form-group{ margin-bottom:6px;}
+.SliderSidebar .SliderSidebarContent.isCollapsed{width:200px; border-radius: 1px 0 0 4px;
+    padding-left: 4px;}        
+.SliderSidebar.isCollapsed{width:234px;}
+        .SliderSidebar, .SliderSidebar .SliderSidebarContent{overflow:hidden;}
+.social-share{margin-top:-4px;}
+#menu-burger{max-height:30px; margin-top:10px;}
+#helpDesk #headerbar.navbar{ margin-bottom:0px;}
+#searchbar [class*="col-"] {
+            padding:0px;
+        }
+#searchbar .input-group-btn{display:list-item;}
+#search-type .checkbox-inline{float:right;}
+#leftmenu{height:500px;}
+    #back-to {
+        background-color: #333;
+    border-radius: 5px 5px 0px 0px;
+    bottom:0px;
+    float: right;
+    padding: 8px;
+    position: fixed;
+    right: 0px;
+    opacity: 0.7;
+    z-index:1;
+    }
+    #liImages .dropdown-menu .appbar{  right:0px; margin:0px;}
+     #back-to a{color:#fff;}
+     #liImages .dropdown-menu{padding:0px 5px;}
+     #myprofile.dropdown-menu a{color:#262626 ! ;}
+@-moz-document url-prefix() {
+    #customBox {
+        clear: both;
+        min-height: 521px;
+    }
+    #helpDesk #page-content-wrapper{min-height:561px;}
+}
+    @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+        #customBox {
+            min-height: 537px;
+        }
+    }
+     @media screen and (min-width:481px) and (max-width: 768px) {
+            #page-heading {
+    color: red !important;
+    font-family: FontAwesome;
+    left: 39px;
+    position: absolute;
+    top: 46px;
+    width:70%;
+    z-index: 9999;
+}
+            #mainheading h2{  color:#333;}
+#breadcrumb-title{display:none;}
+         #breadcrumb .social{margin-right:-6px;}
+          #breadcrumb .social-share{ margin-top:-6px;}
+            #footer.footer-navigation{  height:auto;}
+        #footer ul > li {
+            display:inherit;
+            text-align:left;
+        }
+    }
+          #flyerbox .open #flyerInnerbox{ position:absolute; right:0px; left:auto;}
+    @media screen and (min-width:320px) and (max-width: 1024px) {
+        #hpagegrid {
+            margin-top: 24px;
+        }
+        .app-bar{
+            margin-top: 60px;
+        }
+          #newsfeedbox
+          { min-width:320px !important;}
+         #headerbar h2{color:#fff; display:none;}  
+       .c{margin-top:42px !important;}
+                 /*#textareaid{width:58% !important;}*/
+        #headerbar.navbar{ position:fixed; width:100%; z-index:99;}
+        .c{margin-top:40px;}
+        .community-practice #leftmenu{min-height:360px !important}
+        .community-practice #content-box{padding-left:0px;}
+        .sideimagebox img, .sideimagebox iframe{max-width:314px;border:1px solid #ccc;}
+        #DieseasScrollspy fieldset .col-md-3 {padding-left:0px;}
+        .sideimagebox{ border:0px solid #ccc;}
+        #leftmenu{height:auto;}
+        .colin{height:500px !important;}
+        #searchbar{padding-right:0px;}
+          #searchbar .input-group{width:100%;}
+        #leftmenu{margin-top:60px !important; width:100%;}
+        #sidemenu {
+            position: absolute;
+            top: 43px;
+            width: 100%;
+            z-index: 2147483647;
+            right:110px;
+        }
+        #leftmenu .navbar-header{width:100%;}
+        #leftmenu .navbar-toggle{border:1px solid transparent !important; padding:2px 5px; display:block; }
+        #leftmenu #main-menu{position:absolute; right:0px;}
+        .navbar-side, .navbar-default{ background-color:none; background:none; width:100%;}
+         #liImages .dropdown-menu{max-height:300px; overflow-y:auto; overflow-x:hidden; max-width:266px !important;}
+        #liImages .dropdown-menu .appbar{ width:100%; right:0px;}
+        #headerbar h2{ color:#333 !important; font-size:16px !important;}
+         .navbar-form{padding-left:15px;}
+        #navbarCollapse.in {
+    background-color: #c00;
+    left: 0;
+    position: relative;
+    top:0px;
+    width: 100%;
+    z-index: 9999;
+}
+         #customBox #leftmenu{min-height:45px;}
+        h1, .h1, h2, .h2, h3, .h3{margin-top:5px;}
+        .logo img.img-responsive-logo{width:100% ; max-width:119px; float:left;}
+        #header-menu #MenuDiv{ display:none; }
+        #header-menu .navbar-toggle{display:block;}
+        #menu-burger{display:block;}
+        #header-menu, #header-menu .navbar {
+            position:unset;
+            padding:0px; 
+        }
+    }
+    @media screen and (min-width:768px) and (max-width: 1024px) {
+        #sidemenu{right:250px;}
+         #liImages .dropdown-menu{max-height:300px; overflow-y:auto; overflow-x:hidden; max-width:500px !important; }
+         #liImages .dropdown-menu .appbar{ display:inline-flex;}
+        #liImages .dropdown-menu .appbar{ width:100%;}
+        #page-heading{min-width:228px; margin-left:15px;}
+        #header-menu{max-width:100px;}
+          #headerbar .logo .img-responsive{margin-top:8px;}
+       #searchbar{padding-left:0px;}
+        #leftmenu #main-menu{top:42px;}
+    }
+     @media screen and (min-width:320px) and (max-width: 480px) {
+         .dataTables_length select.input-sm{padding:4px !important;}
+         #hpagegrid .col-xs-6 .img-zoom, #hpagegrid .col-xs-6 .opac {
+            max-width: 290px;
+            margin: 0 auto;
+        }
+         .sideimagebox{text-align:center; border:0px solid #ccc;}
+         .sidebar-collapse .nav li a{font-size:11px !important;}
+         #overview .nav-tabs > li > a{ padding:13px 11px; font-size:12px;}
+         #page-heading {
+                    display:none;
+}
+           #footer.footer-navigation{  height:auto;}
+        #footer ul > li {
+            display:inherit;
+            text-align:left;
+        }
+        #headerbar .btn-circle, #headerbar .btn-circle:hover {
+            margin-right: 0px;
+        }
+        #page-heading{left:20px;}
+         #page-heading h2{ font-size:15px !important;}
+         #breadcrumb-title{display:none;}
+         #breadcrumb .social{margin-right:-6px;}
+          #breadcrumb .social-share{ margin-top:-6px;}
+           #headerbar .logo .img-responsive{margin-top:8px;}
+           #page-heading{min-width:0px;}
+    }
+     @media screen and (min-width:320px) and (max-width: 767px) {
+          #searchbar .input-group-addon, #searchbar .input-group-btn {
+            width:100%;
+        }
+            #customBox {
+                padding-left: 15px;
+                padding-right: 15px;
+                padding-top:15px;
+            }
+                #customBox #leftmenu {
+                    padding-right:15px;
+                }
+                 #headerbar .logo .img-responsive {
+    max-width:13%;
+    position: absolute;
+    z-index: 99999;
+    max-height:21px;
+    right:0px;
+}
+        }
+     @media screen and (max-width: 1200px)
+     {
+         #tblsummury{display:none;}
+         #summurySlider{display:block;}
+          .dt-bootstrap .col-sm-2{width:39%;}
+         .dt-bootstrap .col-sm-3{float:right; width:191px;}
+         .dataTables_wrapper .dataTables_length{width:100%; text-align:left;}
+         .dataTables_wrapper .dataTables_filter{margin-top:0px;}
+         .dataTables_wrapper .dataTables_length label{display:flex;}
+          .dataTables_wrapper .input-sm.form-control{width:auto; margin-left:6px; max-width:128px;}
+          .dataTables_wrapper .dataTables_filter{margin-right:0px;}
+     }
+    .navbar{background:none;}
+    #header-menu .navbar-toggle{margin-top:0px;margin-right: -10px;}
+    #loginform .msglabel{color:red;padding:0px;font-size:18px;}
+    #loginform #signinid .modal-body{padding-left:0px;}
+   #loginform .nav-tabs{display:none;}
+   #loginform .close {padding-right:8px; position:absolute;right:6px;top:-7px;z-index:4;}
+   .popalert {
+  -webkit-animation: seconds 2.0s forwards;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-delay: 5s;
+  animation: seconds 2.0s forwards;
+  animation-iteration-count: 1;
+  animation-delay: 5s;
+  max-width:220px;
+}
+@-webkit-keyframes seconds {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    left: -9999px; 
+  }
+}
+@keyframes seconds {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    left: -9999px; 
+  }
+}
+ .popalert p{padding:0px !important; font-size:13px !important; margin:0px;}
+ .rhDiv1{border-radius:0px; float: left;}
+ .rhDiv2{text-align: center}
+ .gpDiv1{width:480px;}
+ .gpDiv2{margin: 0px auto; float: none;}
+ .gpDiv3{float:right; margin-right:10px;}
+ .gpDiv4{float:right; }
+ .gpDiv5{left: 88%;}
+.gpDiv6 {
+    top: 40px;
+    width: 502px;
+}
+.gpDiv7{margin-top:6px !important;}
+.gpDiv8{margin-bottom:6px !important;}

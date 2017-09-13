@@ -1,0 +1,11 @@
+﻿.SubIndicationli {margin-left :15px;}
+
+/*
+    #popover {
+ overflow: auto;
+ height: 280px;
+}
+*/
+.popover-content{overflow:none; max-height:122px;}
+.top.popover{max-height:144px;  }
+.btn-arrow-right:before, .btn-arrow-left:after{background-color:#fff;}

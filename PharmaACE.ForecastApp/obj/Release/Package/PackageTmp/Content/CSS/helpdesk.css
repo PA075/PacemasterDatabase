@@ -1,0 +1,23 @@
+﻿@media screen and (min-width:320px) and (max-width: 1024px) 
+{
+    #page-content-wrapper {
+        min-height: 599px;
+    }
+    #footer {
+        margin-right: -4px;
+    }
+}
+#form-about-yourself{
+    resize:none;
+}
+.btn-file{
+    margin-top: 0;
+    font-size:larger;
+}
+#attachments_local_path{
+    width: 485px;
+}
+.hdDiv1{float: none; margin: 20px auto; background-color: #e7e6e6 none repeat scroll 0 0;}
+.hdDiv2{padding-left: 16px;}
+.hdDiv3{text-align: right; border-radius: 0px 0px 4px 4px;}
+.hdDiv4{text-align: center}

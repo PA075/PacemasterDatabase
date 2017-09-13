@@ -1,0 +1,406 @@
+2017-08-20 19:46:54.3310|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:18.9160|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.4650|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.6610|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.7010|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.7180|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.7350|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.7510|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.7850|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.7990|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.7990|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.8460|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.8650|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.8810|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:43.9430|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:44.2180|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:44.7190|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:45.2840|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:47:45.7650|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:48:25.9160|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:49:50.6980|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:50:15.2730|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseArea: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:50:40.2040|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:51:28.1580|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:51:52.9180|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:52:17.5150|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:52:42.2620|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseArea: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:52:42.7100|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseArea: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-08-20 19:52:43.1940|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /DiseaseIndicationMenu/GetSecondaryIndication: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.DbContextTransaction.EnsureOpenConnection()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\18-8-17newworking\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1587
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\18-8-17newworking\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)

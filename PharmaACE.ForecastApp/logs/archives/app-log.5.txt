@@ -1,0 +1,836 @@
+2017-08-31 12:40:36.6187|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 12:40:48.0170|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 12:40:48.0170|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 12:40:48.0496|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 12:40:48.0496|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 12:40:57.8211|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 12:40:58.3349|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 12:41:00.6967|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 12:41:01.2016|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 12:41:09.2844|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 12:41:28.4678|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 12:44:30.5029|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 12:44:31.6063|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 12:44:32.1924|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 12:44:32.7087|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 12:59:28.8193|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 12:59:35.7713|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 13:03:17.6462|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 13:05:05.6542|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 13:05:38.3132|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 13:05:40.1070|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 13:05:40.5792|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 13:05:41.0961|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 13:23:47.4810|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 13:24:53.0705|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 13:24:53.0720|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 13:24:53.1347|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 13:24:53.1347|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 13:25:01.8975|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 13:25:03.2772|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 13:25:05.6430|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 13:25:06.1478|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 13:25:28.4254|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 13:26:01.0728|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/GetExclusivityData
+2017-08-31 13:26:01.1270|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 13:29:37.4775|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 13:30:03.4772|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 13:30:03.4782|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 13:30:03.5098|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 13:30:03.5098|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 13:30:10.7671|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 13:30:11.5922|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 13:30:13.0677|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 13:30:13.6071|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 13:31:48.9683|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/GetExclusivityData
+2017-08-31 13:31:48.9789|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 13:50:50.5811|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 13:50:52.7809|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 13:53:28.7143|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 13:53:30.4308|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 13:53:30.9402|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 13:54:38.0905|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 13:54:39.0059|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 13:54:39.6045|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 13:54:40.2818|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 13:54:40.8449|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 13:54:41.5342|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 13:54:42.5735|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 13:54:44.2123|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 13:54:44.7162|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 14:08:01.3468|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 14:08:02.5926|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 14:08:03.1120|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 14:49:05.9557|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 14:49:29.9496|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 14:49:29.9496|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 14:49:30.0072|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 14:49:30.0097|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 14:49:51.6349|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 14:49:58.5062|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 14:50:00.6684|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 14:50:01.1778|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 14:53:46.2210|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 15:17:39.5534|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 15:17:47.0393|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 15:17:47.0408|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 15:17:47.0689|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 15:17:47.0689|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 15:18:01.0080|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 15:18:01.5951|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 15:18:03.0173|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 15:18:03.5367|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 15:18:08.4723|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 15:18:12.2193|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 15:18:13.7459|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 15:18:30.2317|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: A public action method 'FecthAlreadyShared' was not found on controller 'PharmaACE.ForecastApp.Controllers.DrugsController'.
+   at System.Web.Mvc.Controller.HandleUnknownAction(String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 15:23:52.1103|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 15:24:13.6891|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 15:29:50.0335|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 15:29:59.6084|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 15:29:59.6084|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 15:29:59.6786|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 15:29:59.6811|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 15:30:28.9269|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 15:30:29.9958|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 15:30:32.4774|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 15:30:32.9843|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 15:30:37.3245|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 15:30:40.5957|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 15:30:44.8816|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 15:31:33.3018|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: A public action method 'FecthAlreadyShared' was not found on controller 'PharmaACE.ForecastApp.Controllers.DrugsController'.
+   at System.Web.Mvc.Controller.HandleUnknownAction(String actionName)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 15:32:19.0638|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 15:32:21.5043|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 15:32:21.7214|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 15:32:22.2247|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 15:32:47.3744|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 15:33:37.8435|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 15:34:34.1361|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 15:35:00.5333|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 15:35:11.5455|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 15:35:11.5455|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 15:35:11.5791|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 15:35:11.5791|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 15:35:20.3169|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 15:35:21.7522|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 15:35:24.5070|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 15:35:25.0139|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 15:35:39.4625|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 15:36:08.0052|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 15:36:49.4730|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 15:39:29.7708|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 15:40:27.5463|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 15:41:00.7192|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 15:41:00.7192|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 15:41:00.7883|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 15:41:00.7909|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 15:41:14.4607|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 15:41:15.2994|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 15:41:17.9770|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 15:41:18.4839|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 15:41:29.7584|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 15:41:33.3008|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 15:41:36.0452|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 15:41:52.3188|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 16:15:53.7468|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 16:15:53.8044|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: Object reference not set to an instance of an object.
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Rollback() in D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1622
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnException(ExceptionContext filterContext) in D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 64
+   at System.Web.Mvc.Controller.System.Web.Mvc.IExceptionFilter.OnException(ExceptionContext filterContext)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeExceptionFilters(ControllerContext controllerContext, IList`1 filters, Exception exception)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 16:22:04.0821|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 16:22:11.0927|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 16:22:11.0927|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 16:22:11.1278|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 16:22:11.1278|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 16:22:19.3577|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 16:22:20.1563|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:22:22.9156|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 16:22:23.4591|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 16:22:28.3261|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 16:22:31.4935|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 16:22:34.3676|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 16:22:44.3657|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 16:22:44.5016|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 16:24:45.9475|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 16:25:03.7298|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 16:25:03.7298|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 16:25:03.7960|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 16:25:03.7960|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 16:25:13.1839|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 16:25:14.0537|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:25:16.7389|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 16:25:17.2437|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 16:25:22.3689|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 16:25:26.0878|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 16:25:34.3698|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 16:25:45.4267|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 16:25:45.7235|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 16:26:48.7734|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 16:26:48.7854|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 16:26:54.6854|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 16:27:05.3059|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 16:27:05.3235|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 16:36:08.3644|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:10.6039|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:11.2556|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:11.8412|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:12.4394|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:13.0600|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:13.7028|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:14.3713|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:15.1413|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:15.7770|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:16.4077|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:17.0640|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:17.7809|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:18.4241|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:19.2218|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:19.9603|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:20.5819|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:21.2353|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:21.8600|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:22.5158|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:23.1284|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:24.0398|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:24.6660|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 16:36:25.6391|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:26.6655|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:27.6727|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:28.2423|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 16:36:28.2984|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:29.1768|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:30.1940|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:36:31.2261|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 16:36:47.0765|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 16:37:38.8396|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 16:37:38.8396|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 16:47:41.7190|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 16:49:40.7855|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 16:49:40.7855|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 16:49:40.8215|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 16:49:40.8236|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 16:49:48.1611|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 16:49:48.7381|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 16:49:50.9530|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 16:49:51.4709|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 16:49:56.1289|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 16:50:04.3468|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 16:50:04.5303|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 16:50:36.5532|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 16:50:41.2001|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 16:50:41.2613|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 17:03:19.5969|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 17:03:19.6144|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-08-31 17:24:43.1224|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/patent' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 18:32:28.0213|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-08-31 18:33:19.3527|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-08-31 18:33:19.3537|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-08-31 18:33:19.4083|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-08-31 18:33:19.4083|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-08-31 18:33:25.2734|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 18:33:26.1036|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-08-31 18:33:28.3727|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-08-31 18:33:28.8867|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-08-31 18:33:31.4887|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetDrugs
+2017-08-31 18:33:47.2611|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: The controller for path '/Scripts/export/pdfmake.min.js.map' was not found or does not implement IController.
+   at System.Web.Mvc.DefaultControllerFactory.GetControllerInstance(RequestContext requestContext, Type controllerType)
+   at System.Web.Mvc.DefaultControllerFactory.CreateController(RequestContext requestContext, String controllerName)
+   at System.Web.Mvc.MvcHandler.ProcessRequestInit(HttpContextBase httpContext, IController& controller, IControllerFactory& factory)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContextBase httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.BeginProcessRequest(HttpContext httpContext, AsyncCallback callback, Object state)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.BeginProcessRequest(HttpContext context, AsyncCallback cb, Object extraData)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-08-31 18:34:05.6969|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drug/FetchPatentDetails
+2017-08-31 18:34:06.0553|INFO|PharmaACE.ForecastApp.Controllers.BaseController|exclusivity Details successfully
+2017-09-01 12:28:00.6995|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 12:28:25.6207|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 12:28:25.6287|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 12:28:25.6607|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 12:28:25.6607|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 12:28:31.7132|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 12:28:33.6884|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 12:28:36.1366|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 12:28:38.4768|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 12:29:01.5829|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 12:29:05.0352|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 13:09:41.9947|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 13:09:57.7666|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 13:09:57.7666|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 13:09:57.8366|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 13:09:57.8506|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 13:10:07.7416|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 13:10:36.8394|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 13:10:37.7764|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: Object reference not set to an instance of an object.
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Rollback() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1622
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnException(ExceptionContext filterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 64
+   at System.Web.Mvc.Controller.System.Web.Mvc.IExceptionFilter.OnException(ExceptionContext filterContext)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeExceptionFilters(ControllerContext controllerContext, IList`1 filters, Exception exception)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-09-01 13:11:08.2832|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 13:11:12.7512|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 13:12:47.0052|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: Object reference not set to an instance of an object.
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Rollback() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1622
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnException(ExceptionContext filterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 64
+   at System.Web.Mvc.Controller.System.Web.Mvc.IExceptionFilter.OnException(ExceptionContext filterContext)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeExceptionFilters(ControllerContext controllerContext, IList`1 filters, Exception exception)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-09-01 13:17:55.0092|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 13:18:55.3333|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 13:18:55.3603|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 13:18:55.4103|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 13:18:55.4323|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 13:19:10.9978|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 13:19:11.5729|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 13:19:19.0516|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 13:28:47.2614|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 13:29:01.8364|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 13:29:01.8614|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 13:29:01.9454|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 13:29:01.9654|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 13:29:09.9594|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 13:29:11.5714|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 13:29:19.3754|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 13:49:49.3454|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 13:49:56.1594|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 13:50:51.6864|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 13:51:03.9064|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 13:51:03.9294|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 13:51:03.9824|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 13:51:03.9994|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 13:51:22.4324|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 13:51:23.4184|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 13:52:41.6674|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 14:00:46.5114|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 14:01:03.5494|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 14:01:03.5644|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 14:01:03.6574|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 14:01:03.6694|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 14:01:21.0764|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 14:04:39.4814|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 14:04:44.5704|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 16:21:54.7512|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 16:22:36.8112|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /Home/SignInTest?email=vinod.singh%40pharmaace.com&password=User%40123&_=1504263123835: An exception occurred while initializing the database. See the InnerException for details.
+   at System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   at System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   at System.Data.Entity.Internal.LazyInternalContext.<InitializeDatabase>b__4(InternalContext c)
+   at System.Data.Entity.Internal.RetryAction`1.PerformAction(TInput input)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeDatabaseAction(Action`1 action)
+   at System.Data.Entity.Internal.LazyInternalContext.InitializeDatabase()
+   at System.Data.Entity.Internal.LazyInternalContext.get_ObjectContext()
+   at System.Data.Entity.Database.get_CurrentTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1586
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-09-01 16:22:44.7612|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 16:22:44.7612|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 16:22:44.7962|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 16:22:44.8032|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 16:22:51.7492|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 16:22:53.5602|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 16:22:54.3812|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: Object reference not set to an instance of an object.
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Rollback() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1622
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnException(ExceptionContext filterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 64
+   at System.Web.Mvc.Controller.System.Web.Mvc.IExceptionFilter.OnException(ExceptionContext filterContext)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeExceptionFilters(ControllerContext controllerContext, IList`1 filters, Exception exception)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-09-01 16:22:56.7122|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 16:34:11.5952|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 16:34:27.5102|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 16:34:27.5242|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 16:34:27.5942|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 16:34:27.6152|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 16:34:35.4062|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 16:34:40.3542|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 16:35:15.0172|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: Object reference not set to an instance of an object.
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Rollback() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1622
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnException(ExceptionContext filterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 64
+   at System.Web.Mvc.Controller.System.Web.Mvc.IExceptionFilter.OnException(ExceptionContext filterContext)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeExceptionFilters(ControllerContext controllerContext, IList`1 filters, Exception exception)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-09-01 16:35:57.0842|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 16:36:09.6242|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 16:36:09.6242|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 16:36:09.6742|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 16:36:09.6862|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 16:36:17.8582|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 16:36:18.8982|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 16:36:19.6302|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: Object reference not set to an instance of an object.
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Rollback() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1622
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnException(ExceptionContext filterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 64
+   at System.Web.Mvc.Controller.System.Web.Mvc.IExceptionFilter.OnException(ExceptionContext filterContext)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeExceptionFilters(ControllerContext controllerContext, IList`1 filters, Exception exception)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-09-01 16:36:22.3022|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 16:36:33.8432|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 16:36:52.2822|ERROR|PharmaACE.ForecastApp.MvcApplication|Unhandled Exception at Application_Error: Object reference not set to an instance of an object.
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Rollback() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1622
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnException(ExceptionContext filterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 64
+   at System.Web.Mvc.Controller.System.Web.Mvc.IExceptionFilter.OnException(ExceptionContext filterContext)
+   at System.Web.Mvc.ControllerActionInvoker.InvokeExceptionFilters(ControllerContext controllerContext, IList`1 filters, Exception exception)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__22(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.EndInvokeAction(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.<>c__DisplayClass1d.<BeginExecuteCore>b__18(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecuteCore(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.Controller.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.Controller.System.Web.Mvc.Async.IAsyncController.EndExecute(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.<>c__DisplayClass8.<BeginProcessRequest>b__3(IAsyncResult asyncResult)
+   at System.Web.Mvc.Async.AsyncResultWrapper.<>c__DisplayClass4.<MakeVoidDelegate>b__3(IAsyncResult ar)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.End()
+   at System.Web.Mvc.MvcHandler.EndProcessRequest(IAsyncResult asyncResult)
+   at System.Web.Mvc.MvcHandler.System.Web.IHttpAsyncHandler.EndProcessRequest(IAsyncResult result)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2017-09-01 16:37:19.5522|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /Home/GetUserNotification?_=1504264017206: An exception has been raised that is likely due to a transient failure. If you are connecting to a SQL Azure database consider using SqlAzureExecutionStrategy.
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source)
+   at PharmaACE.ForecastApp.Business.GenUtil.GetTenantConnectionStringWithoutDispose(Int32 tenantId, MasterModel masterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 849
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Init() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1579
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1585
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-09-01 16:48:04.8442|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 16:48:54.8972|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 16:48:54.9092|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 16:48:54.9732|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 16:48:54.9832|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 16:49:49.9162|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 16:50:31.2482|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /Patent: An error occurred while starting a transaction on the provider connection. See the inner exception for details.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at System.Data.Entity.Core.EntityClient.EntityConnection.BeginTransaction()
+   at System.Data.Entity.DbContextTransaction..ctor(EntityConnection connection)
+   at System.Data.Entity.Database.BeginTransaction()
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1589
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-09-01 17:04:15.4922|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 17:05:17.4902|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 17:05:17.4902|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 17:05:17.5492|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 17:05:17.5612|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 17:05:29.8812|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 17:05:32.4892|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 17:05:34.0062|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 17:09:56.3102|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 17:09:58.5622|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 17:14:01.7652|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 17:14:03.8012|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 17:16:28.2832|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 17:16:31.1782|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 17:36:04.1722|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 17:36:05.0112|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 17:38:09.8822|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 17:38:24.0282|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 17:38:24.0282|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 17:38:24.1232|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 17:38:24.1232|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 17:38:44.3822|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 17:38:50.4532|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 17:38:52.7112|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 17:38:58.0262|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:01:14.2912|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 18:01:29.7602|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 18:01:29.7662|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 18:01:29.8282|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 18:01:29.8282|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 18:01:41.3792|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:01:42.0662|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:01:43.3682|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:02:09.2862|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:10:13.4762|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 18:10:26.0132|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 18:10:26.0202|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 18:10:26.0582|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 18:10:26.0652|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 18:10:36.0042|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:10:37.3252|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:10:38.8302|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:10:59.7232|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:19:56.8542|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:19:58.9112|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:20:04.9332|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:20:05.6082|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:20:07.0562|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:24:25.4632|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:24:27.3332|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:24:31.7152|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:25:15.5162|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:25:18.3072|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:25:24.4322|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:25:25.3602|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:30:14.7192|ERROR|PharmaACE.ForecastApp.Controllers.BaseController|Unhandled Exception at /Patent: The underlying provider failed on Open.
+   at System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   at System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   at System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   at System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.<GetElementFunction>b__3[TResult](IEnumerable`1 sequence)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.ExecuteSingle[TResult](IEnumerable`1 query, Expression queryRoot)
+   at System.Data.Entity.Core.Objects.ELinq.ObjectQueryProvider.System.Linq.IQueryProvider.Execute[TResult](Expression expression)
+   at System.Data.Entity.Internal.Linq.DbQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.Single[TSource](IQueryable`1 source)
+   at PharmaACE.ForecastApp.Business.GenUtil.GetTenantConnectionStringWithoutDispose(Int32 tenantId, MasterModel masterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 849
+   at PharmaACE.ForecastApp.Business.UnitOfWork.Init() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1579
+   at PharmaACE.ForecastApp.Business.UnitOfWork.BeginTransaction() in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.GenUtil.cs:line 1585
+   at PharmaACE.ForecastApp.Controllers.BaseController.OnActionExecuting(ActionExecutingContext filterContext) in G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\Controllers\BaseController.cs:line 25
+   at System.Web.Mvc.Controller.System.Web.Mvc.IActionFilter.OnActionExecuting(ActionExecutingContext filterContext)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.InvokeActionMethodFilterAsynchronously(IActionFilter filter, ActionExecutingContext preContext, Func`1 nextInChain)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<>c__DisplayClass39.<>c__DisplayClass3b.<BeginInvokeActionMethodWithFilters>b__35()
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass37.<BeginInvokeActionMethodWithFilters>b__31(AsyncCallback asyncCallback, Object asyncState)
+   at System.Web.Mvc.Async.AsyncResultWrapper.WrappedAsyncResult`1.Begin(AsyncCallback callback, Object state, Int32 timeout)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.BeginInvokeActionMethodWithFilters(ControllerContext controllerContext, IList`1 filters, ActionDescriptor actionDescriptor, IDictionary`2 parameters, AsyncCallback callback, Object state)
+   at System.Web.Mvc.Async.AsyncControllerActionInvoker.<>c__DisplayClass25.<BeginInvokeAction>b__1e(AsyncCallback asyncCallback, Object asyncState)
+2017-09-01 18:30:38.6132|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 18:30:46.4782|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:30:46.5492|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:30:47.9272|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:30:50.6972|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:35:32.6052|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:35:34.5512|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:35:38.6972|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:37:50.9242|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:37:52.9302|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:37:56.0122|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:39:11.8342|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 18:39:14.4602|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:39:14.6312|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-09-01 18:39:18.3702|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/Index
+2017-09-01 18:39:19.7482|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:39:20.2702|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Drugs/GetAutocompleteListData
+2017-09-01 18:40:02.6962|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:40:04.4922|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:40:07.8452|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:44:42.1882|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:44:44.0292|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:44:48.3092|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:48:09.4522|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:48:11.1232|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:48:18.6542|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:49:42.6172|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:49:44.5992|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:49:48.2102|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:51:13.6822|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:51:15.6292|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:51:22.3112|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:55:46.7132|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:55:48.3042|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:56:03.5072|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 18:56:21.3362|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:56:33.1082|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 18:56:33.7332|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 18:56:51.7492|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 19:05:32.8845|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 19:05:35.2732|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 19:05:38.0139|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 19:05:46.9891|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 19:05:47.3840|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 19:05:47.9020|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 19:05:48.3909|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 19:05:59.4528|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 19:07:11.1316|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 19:07:12.8835|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 19:07:16.9830|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 19:08:51.6796|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 19:08:53.7954|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 19:08:56.8721|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 20:18:59.5113|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/Index
+2017-09-01 20:19:10.5042|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/SignInTest
+2017-09-01 20:19:10.5042|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Checking vinod.singh@pharmaace.com credentials
+2017-09-01 20:19:10.5842|INFO|PharmaACE.ForecastApp.Controllers.BaseController|User credentials valid, setting up session variables
+2017-09-01 20:19:10.5942|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Session populated, returning with success
+2017-09-01 20:19:18.4563|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 20:19:19.7134|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/Index
+2017-09-01 20:19:21.2198|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Home/GetUserNotification
+2017-09-01 20:19:33.2326|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo
+2017-09-01 20:20:36.2513|INFO|PharmaACE.ForecastApp.Controllers.BaseController|Inside Patent/GetPatentInfo

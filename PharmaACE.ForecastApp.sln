@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaACE.ForecastApp", "PharmaACE.ForecastApp\PharmaACE.ForecastApp.csproj", "{544EECC8-26AE-4459-A68A-6A1189EC5F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaACE.ForecastApp.Models", "PharmaACE.ForecastApp.Models\PharmaACE.ForecastApp.Models.csproj", "{86C041D2-12C3-478F-81ED-3152D15B07A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaACE.ForecastApp.Business", "PharmaACE.ForecastApp.Business\PharmaACE.ForecastApp.Business.csproj", "{DFA0A818-5DD0-4DA8-A30C-7DA1F37DC1CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcReportViewer", "MvcReportViewer\MvcReportViewer.csproj", "{6353720D-C784-4C00-A7B7-D652542FBCC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcReportViewer_NET45", "MvcReportViewer_NET45\MvcReportViewer_NET45.csproj", "{BF8D2B0B-EFD0-44A6-B6E1-A3215B4C477B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaACE.ForecastAppTests", "PharmaACE.ForecastAppTests\PharmaACE.ForecastAppTests.csproj", "{375F6433-2710-4316-892F-98D3F9BD0F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmaACE.ForecastApp.EntityProvider", "PharmaACE.ForecastApp.EntityProvider\PharmaACE.ForecastApp.EntityProvider.csproj", "{D621E844-9609-4A12-A50F-DCAA6E232785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kentor.AuthServices", "Kentor.AuthServices\Kentor.AuthServices.csproj", "{93BA675E-A159-4701-B68B-C4B81015C556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kentor.AuthServices.HttpModule", "Kentor.AuthServices.HttpModule\Kentor.AuthServices.HttpModule.csproj", "{86A588E8-2E2D-4394-9545-24D8EA939CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kentor.AuthServices.Mvc", "Kentor.AuthServices.Mvc\Kentor.AuthServices.Mvc.csproj", "{7D32F0A3-CEC8-4DC6-A096-5905EA9C3770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{544EECC8-26AE-4459-A68A-6A1189EC5F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544EECC8-26AE-4459-A68A-6A1189EC5F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544EECC8-26AE-4459-A68A-6A1189EC5F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544EECC8-26AE-4459-A68A-6A1189EC5F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C041D2-12C3-478F-81ED-3152D15B07A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C041D2-12C3-478F-81ED-3152D15B07A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C041D2-12C3-478F-81ED-3152D15B07A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C041D2-12C3-478F-81ED-3152D15B07A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFA0A818-5DD0-4DA8-A30C-7DA1F37DC1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFA0A818-5DD0-4DA8-A30C-7DA1F37DC1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFA0A818-5DD0-4DA8-A30C-7DA1F37DC1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFA0A818-5DD0-4DA8-A30C-7DA1F37DC1CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6353720D-C784-4C00-A7B7-D652542FBCC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6353720D-C784-4C00-A7B7-D652542FBCC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6353720D-C784-4C00-A7B7-D652542FBCC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6353720D-C784-4C00-A7B7-D652542FBCC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8D2B0B-EFD0-44A6-B6E1-A3215B4C477B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8D2B0B-EFD0-44A6-B6E1-A3215B4C477B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8D2B0B-EFD0-44A6-B6E1-A3215B4C477B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8D2B0B-EFD0-44A6-B6E1-A3215B4C477B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{375F6433-2710-4316-892F-98D3F9BD0F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375F6433-2710-4316-892F-98D3F9BD0F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375F6433-2710-4316-892F-98D3F9BD0F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375F6433-2710-4316-892F-98D3F9BD0F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D621E844-9609-4A12-A50F-DCAA6E232785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D621E844-9609-4A12-A50F-DCAA6E232785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D621E844-9609-4A12-A50F-DCAA6E232785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D621E844-9609-4A12-A50F-DCAA6E232785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93BA675E-A159-4701-B68B-C4B81015C556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93BA675E-A159-4701-B68B-C4B81015C556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93BA675E-A159-4701-B68B-C4B81015C556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93BA675E-A159-4701-B68B-C4B81015C556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A588E8-2E2D-4394-9545-24D8EA939CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A588E8-2E2D-4394-9545-24D8EA939CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A588E8-2E2D-4394-9545-24D8EA939CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A588E8-2E2D-4394-9545-24D8EA939CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D32F0A3-CEC8-4DC6-A096-5905EA9C3770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D32F0A3-CEC8-4DC6-A096-5905EA9C3770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D32F0A3-CEC8-4DC6-A096-5905EA9C3770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D32F0A3-CEC8-4DC6-A096-5905EA9C3770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+ALTER TABLE [dbo].[UserNotifications]  Drop  CONSTRAINT [FK_UserNotifications_UserMaster]
+ALTER TABLE [dbo].[BrowserSetting] DROP CONSTRAINT [FK_BrowserSetting_UserMaster]
+ALTER TABLE [dbo].[DashboardUserMapping] DROP CONSTRAINT [FK_DashboardUserMapping_UserMaster]
+ALTER TABLE [dbo].[DashboardUserMapping] DROP CONSTRAINT [FK_DashboardUserMapping_UserMaster_ShareWithId]
+ALTER TABLE [dbo].[FeedUserMaster] DROP CONSTRAINT [FK_FeedUserMaster_UserMaster]
+ALTER TABLE [dbo].[ReportUserMapping] DROP CONSTRAINT [FK_ReportUserMapping_UserMaster]
+ALTER TABLE [dbo].[ReportUserMapping] DROP CONSTRAINT [FK_ReportUserMapping_UserMaster_sharewithId]

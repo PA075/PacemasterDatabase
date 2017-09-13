@@ -1,0 +1,255 @@
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\References\Microsoft.Web.Infrastructure.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\References\EntityFramework.SqlServer.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\NLog.config
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaKMWebApp.dll.config
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaKMWebApp.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaKMWebApp.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Antlr3.Runtime.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.AspNet.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.Core.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OAuth.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OpenId.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\EntityFramework.SqlServer.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\FileTypeDetective.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\HtmlAgilityPack.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Ionic.Zip.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\itextsharp.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.Mvc.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.Common.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.DataVisualization.DLL
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.WebForms.DLL
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.SharePoint.Client.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.SharePoint.Client.Runtime.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.Web.Infrastructure.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\MvcCheckBoxList.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\MvcReportViewer.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\MvcSiteMapProvider.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\MvcSiteMapProvider.WebActivator.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Newtonsoft.Json.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Ninject.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Ninject.Web.Common.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Ninject.Web.Mvc.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\NLog.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\PagedList.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\PagedList.Mvc.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\ReportViewerForMvc.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Net.Http.Formatting.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Spatial.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Web.Extensions.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Web.Helpers.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Web.Http.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Web.Http.WebHost.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Web.Mvc.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Web.Optimization.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Web.Optimization.HashCache.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Web.Razor.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Web.WebPages.Deployment.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Web.WebPages.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Web.WebPages.Razor.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\WebActivatorEx.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\WebGrease.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\WebMatrix.Data.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\WebMatrix.WebData.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.HttpModule.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\DocumentFormat.OpenXml.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\EntityFramework.Extended.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\EntityFramework.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.WindowsAzure.StorageClient.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.Mvc.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.Mvc.xml
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\MvcReportViewer.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Business.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.EntityProvider.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\HtmlAgilityPack.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\HtmlAgilityPack.xml
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\itextsharp.xml
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\NLog.xml
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\System.Spatial.xml
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.xml
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.HttpModule.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.HttpModule.xml
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\DocumentFormat.OpenXml.xml
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\obj\Release\PharmaACE.ForecastApp.csprojResolveAssemblyReference.cache
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\obj\Release\PharmaKMWebApp.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\obj\Release\PharmaKMWebApp.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\References\Microsoft.Web.Infrastructure.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\References\EntityFramework.SqlServer.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\NLog.config
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\PharmaKMWebApp.dll.config
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\PharmaKMWebApp.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\PharmaKMWebApp.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Antlr3.Runtime.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.AspNet.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.Core.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OAuth.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OpenId.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\EntityFramework.SqlServer.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\FileTypeDetective.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\HtmlAgilityPack.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Ionic.Zip.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\itextsharp.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.Mvc.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.Common.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.DataVisualization.DLL
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.WebForms.DLL
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.SharePoint.Client.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.SharePoint.Client.Runtime.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.Web.Infrastructure.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.Web.WebPages.OAuth.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\MvcCheckBoxList.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\MvcReportViewer.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\MvcSiteMapProvider.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\MvcSiteMapProvider.WebActivator.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Newtonsoft.Json.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Ninject.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Ninject.Web.Common.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Ninject.Web.Mvc.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\NLog.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\PagedList.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\PagedList.Mvc.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\ReportViewerForMvc.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Net.Http.Formatting.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Spatial.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Web.Extensions.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Web.Helpers.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Web.Http.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Web.Http.WebHost.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Web.Mvc.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Web.Optimization.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Web.Optimization.HashCache.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Web.Razor.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Web.WebPages.Deployment.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Web.WebPages.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Web.WebPages.Razor.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\WebActivatorEx.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\WebGrease.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\WebMatrix.Data.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\WebMatrix.WebData.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.HttpModule.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\DocumentFormat.OpenXml.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\EntityFramework.Extended.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\EntityFramework.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.WindowsAzure.StorageClient.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Microsoft.WindowsAzure.Configuration.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.Mvc.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.Mvc.xml
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\MvcReportViewer.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Business.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.EntityProvider.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\HtmlAgilityPack.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\HtmlAgilityPack.xml
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\itextsharp.xml
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\NLog.xml
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\System.Spatial.xml
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.xml
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.HttpModule.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.HttpModule.xml
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\DocumentFormat.OpenXml.xml
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\obj\Release\PharmaACE.ForecastApp.csprojResolveAssemblyReference.cache
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\obj\Release\PharmaKMWebApp.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\obj\Release\PharmaKMWebApp.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\References\Microsoft.Web.Infrastructure.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\References\EntityFramework.SqlServer.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\NLog.config
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\PharmaKMWebApp.dll.config
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\PharmaKMWebApp.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\PharmaKMWebApp.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Antlr3.Runtime.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.AspNet.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.Core.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OAuth.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OpenId.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\EntityFramework.SqlServer.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\FileTypeDetective.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\HtmlAgilityPack.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Ionic.Zip.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\itextsharp.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.Mvc.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.Common.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.DataVisualization.DLL
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.SharePoint.Client.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.SharePoint.Client.Runtime.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\MvcCheckBoxList.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\MvcReportViewer.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\MvcSiteMapProvider.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\MvcSiteMapProvider.WebActivator.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Newtonsoft.Json.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Ninject.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Ninject.Web.Common.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Ninject.Web.Mvc.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\NLog.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\PagedList.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\PagedList.Mvc.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\ReportViewerForMvc.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Net.Http.Formatting.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Spatial.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Web.Extensions.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Web.Helpers.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Web.Http.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Web.Http.WebHost.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Web.Mvc.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Web.Optimization.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Web.Optimization.HashCache.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Web.Razor.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Web.WebPages.Deployment.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Web.WebPages.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Web.WebPages.Razor.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\WebActivatorEx.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\WebGrease.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\WebMatrix.Data.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\WebMatrix.WebData.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.HttpModule.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\DocumentFormat.OpenXml.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\EntityFramework.Extended.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\EntityFramework.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.WindowsAzure.StorageClient.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.Mvc.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.Mvc.xml
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\MvcReportViewer.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Business.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.EntityProvider.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\HtmlAgilityPack.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\HtmlAgilityPack.xml
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\itextsharp.xml
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\NLog.xml
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\System.Spatial.xml
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.xml
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.HttpModule.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\Kentor.AuthServices.HttpModule.xml
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\DocumentFormat.OpenXml.xml
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\obj\Release\PharmaACE.ForecastApp.csprojResolveAssemblyReference.cache
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\obj\Release\PharmaKMWebApp.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\obj\Release\PharmaKMWebApp.pdb

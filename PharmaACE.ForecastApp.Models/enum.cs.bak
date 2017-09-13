@@ -1,0 +1,194 @@
+﻿namespace PharmaACE.ForecastApp.Models
+{
+    public enum UserRole
+    {
+        Normal = 1,
+        Admin,
+        SuperAdmin
+    }
+
+    public enum ModuleMetadata
+    {
+        Forecast = 1,
+        KM = 2,
+        Reporting = 3,
+        Community = 4,
+        CI = 5
+    }
+    public enum ForecastModelType
+    {
+        Generic,
+        BDL,
+        Acthar,
+        Epicyclopedia = 10,
+        ShareBuilder = 11,
+        AnalogAnalysisEventImpact = 12,
+        HistoricalTrendline = 13,
+        WaterfallChart = 17,
+        SensitivityAndTornado = 18
+    }
+
+    public enum StorageContext
+    {
+        Indication,
+        Forum,
+        report
+
+    }
+
+    public enum HeaderType
+    {
+        ForecastIndex,
+        Forecast,
+        Forecaster,
+        ForecastNoMenu,
+        KM,
+        BI,
+        Utilities,
+        CustomFeed,
+        CommunityPractice,
+        UserWorkSpace,
+        HelpDesk
+    }
+
+    public enum ForecastPeriod
+    {
+        Weekly,
+        Monthly,
+        Yearly,
+        Quarterly
+    }
+
+    public enum ForecastCategory
+    {
+        BDL,
+        Internal
+    }
+
+    public enum ForecastDataType
+    {
+        Units,
+        TRx
+    }
+
+    public enum ProductType
+    {
+        Inline,
+        Pipeline
+    }
+
+    public enum ProductBrand
+    {
+        NonBrand,
+        Brand
+    }
+
+    public enum ForecastTrendingType
+    {
+        None,
+        Linear,
+        Logarithmic,
+        Inverse,
+        Power,
+        Exponential,
+        S_Shape
+    }
+
+    public enum ForecastProjectionType
+    {
+        Market,
+        Competitor
+    }
+
+    public enum ForecastEventStatus
+    {
+        Off,
+        On
+    }
+
+    public enum PenetrationType
+    {
+        Calculated = 1,
+        Manual
+    }
+
+    public enum ForecastEventImpactType
+    {
+        None,
+        Negative,
+        Positive
+    }
+
+    public enum ForecastParameterScope
+    {
+        None,
+        Forecast,
+        Trend,
+        Price
+    }
+
+    public enum ReportModelType
+    {
+        Generic,
+        BDL,
+        Acthar
+    }
+
+    public enum AuthenticationLevel
+    {
+        Create = 1,
+        Edit,
+        Read
+    }
+
+    public enum LoginStatus
+    {
+        Fail,
+        Success,
+        UserNotFound,
+        PasswordNotMatched,
+        SubscriptionExpired,
+        Inactive
+    }
+
+
+    public enum DrugSearchContext
+    {
+        ByProductName = 1,
+        ByMoleculeName,
+        ByPharmaClass,
+        ByIndication,
+        ByManufacturer,
+        ByCategory
+    }
+
+    public enum DiseaseAreaSearchContext
+    {
+        ByDisease = 1,
+        ByIndication
+    }
+
+    public enum SearchCondition
+    {
+        Contains = 1,
+        StartsWith,
+        EndsWith,
+        Exact
+    }
+
+    public enum DrugSearchModule
+    {
+        Both,
+        Inline,
+        Pipeline
+    }
+
+    public enum ShareCalculationType
+    {
+        OutputShares,
+        FairShare,
+        PeakShareWithSourceOfBusiness,
+        SequentialShares,
+        ShareTheft
+    }
+}

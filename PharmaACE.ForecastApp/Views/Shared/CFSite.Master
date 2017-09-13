@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>
+        <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
+    </title>
+    <link href="<%: Url.Content("~/favicon.ico") %>" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    <%: Styles.Render( "~/Content/CFSiteMasterCSS")  %>  
+    <%: Scripts.Render("~/Scripts/CFSiteMasterScript") %>
+     <%--<script type="text/javascript" src="../../Scripts/lib/jquery/jquery.min.js"></script> 
+   <script type="text/javascript" src="../../Scripts/custom/PharmaACE.ForecastApp.Utility.js"></script>
+    <script src="../../Scripts/custom/summernote.js"></script>
+    <script src="../../Scripts/custom/PharmaACE.ForecastApp.Notification.js"></script>
+    <script src="../../Scripts/custom/PharmaACE.ForecastApp.Service.js"></script>
+     <script src="../../Scripts/lib/bootstrap/bootstrap.min.js"></script>
+     <script src="../../Scripts/lib/bootstrap/bootbox.js"></script>
+    <script type="text/javascript" src="../../Scripts/custom/PharmaACE.ForecastApp.Constants.js"></script>
+     <script type="text/javascript" src="../../Scripts/lib/jquery/jquery.nicescroll.min.js"></script>--%>
+    
+    <script type="text/javascript">
+        $(document).ready(function () {
+           
+            if ($('.img-zoom')) {
+                $('.img-zoom').hover(function () {
+                    $(this).addClass('transition');
+                }, function () {
+                    $(this).removeClass('transition');
+                });
+            }
+            //if (PHARMAACE.FORECASTAPP.UTILITY.isIE() == false)
+            //    $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+        });
+    </script>
+</head>
+<body>
+    <%string childPage = Request.CurrentExecutionFilePath; ; %>
+    <% if(childPage.Contains("KM")){ %>
+    <%Html.RenderAction("RenderHeader", "Header", new { headerType = "KM" }); %>
+    <%} %>
+     <%if(childPage.Contains("LiveFeed"))  { %>
+    <%Html.RenderAction("RenderHeader", "Header", new { headerType = "CustomFeed" }); %>
+    <%}%>
+    <% if(childPage.Contains("Reporting")){%>
+    <%Html.RenderAction("RenderHeader", "Header", new { headerType = "BI" }); %>
+    <%}%>
+    <% if(childPage.Contains("CommunityPractice")){ %>
+    <%Html.RenderAction("RenderHeader", "Header", new { headerType = "CommunityPractice" }); %>
+    <%}%>
+     <% if(childPage.Contains("HelpDesk")){ %>
+     <%Html.RenderAction("RenderHeader", "Header", new { headerType = "HelpDesk" }); %>
+    <%}%>
+     <% if(childPage.Contains("UserWorkSpace")){ %>
+    <%Html.RenderAction("RenderHeader", "Header", new { headerType = "UserWorkSpace" }); %>
+    <%}%>
+    <div>
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <footer id="footer" class="midnight-blue">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-6">
+                    &copy; 2016 <a target="_blank" href="#" title="PharmaAce">PharmaACE</a>. All Rights Reserved.
+                </div>
+            </div>
+        </div>
+    </footer>
+    <span id="top-link-block" class="hidden">
+    <a href="#top" class="well well-sm"  onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
+        <i class="glyphicon glyphicon-chevron-up"></i> Back to Top
+    </a>
+</span>
+    	 <script>
+        //    jQuery(document).ready(function () {
+        //        //start Notification code
+        // window.setInterval(function () {
+        //     GetNotifications();
+        //    }, 5000);
+        ////Ends Notification code
+        //    });
+            //function GetNotifications() {
+            //    PHARMAACE.FORECASTAPP.SERVICE.getJsonData("/Home/GetUserNotification", null,
+            //        function (result) {
+            //            if (result.success) {
+            //                PHARMAACE.FORECASTAPP.UTILITY.populateNotificationList(result.notifications)
+            //            }
+            //        });
+            //}
+        </script>
+    <asp:ContentPlaceHolder ID="ScriptsSection" runat="server">
+        <%--<script type="text/javascript" src="../../Scripts/lib/jquery/jquery.dataTables.min.js"></script>
+        <script type="text/javascript" src="../../Scripts/lib/bootstrap/dataTables.bootstrap.min.js"></script>
+        <script src="../../Scripts/lib/jquery/jquery.metisMenu.js"></script>
+        <script src="../../Scripts/custom/custom.js"></script>
+        <script src="../../Scripts/custom/template.js"></script>--%>
+        <%--<%: Scripts.Render("~/Scripts/leftMenuLIB") %>--%>
+       
+    </asp:ContentPlaceHolder>
+</body>
+</html>

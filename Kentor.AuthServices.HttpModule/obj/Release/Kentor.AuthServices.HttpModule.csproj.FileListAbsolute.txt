@@ -1,0 +1,45 @@
+G:\7-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.XML
+G:\7-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.pdb
+G:\7-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.pdb
+G:\7-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.xml
+G:\7-7-17newworking\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.csprojResolveAssemblyReference.cache
+G:\7-7-17newworking\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.pdb
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.XML
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.pdb
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.pdb
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.xml
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.csprojResolveAssemblyReference.cache
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.pdb
+G:\12-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.XML
+G:\12-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.pdb
+G:\12-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.pdb
+G:\12-7-17newworking\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.xml
+G:\12-7-17newworking\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.csprojResolveAssemblyReference.cache
+G:\12-7-17newworking\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.pdb
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.XML
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.pdb
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.pdb
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.xml
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.csprojResolveAssemblyReference.cache
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.pdb
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.XML
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.HttpModule.pdb
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.pdb
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.HttpModule\bin\Release\Kentor.AuthServices.xml
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.csprojResolveAssemblyReference.cache
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.HttpModule\obj\Release\Kentor.AuthServices.HttpModule.pdb

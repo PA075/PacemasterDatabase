@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>
+        <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
+    </title>
+    <link href="<%: Url.Content("~/favicon.ico") %>" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+        <%: Styles.Render("~/Content/siteMasterCSS")  %>
+   <%-- <%: Styles.Render("~/Content/bootstrapCSS", "~/Content/siteMasterCSS")  %>
+    <%: Scripts.Render("~/Scripts/jqueryLIB", "~/Scripts/bootstrapLIB") %>
+    <%: Scripts.Render("~/Scripts/siteMasterLIB") %>  
+    <script type="text/javascript" src="../../Scripts/custom/PharmaACE.ForecastApp.Utility.js"></script>--%>
+    <script src="../../Scripts/custom/PharmaACE.ForecastApp.Notification.js"></script>
+   <%: Scripts.Render( "~/Scripts/KMSiteMasterScript")%>
+</head>
+<body>
+    
+    <header id="header">
+    <nav class="navbar navbar-inverse fixed affix-top" role="banner" id="headerbar">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12 ">
+                    <div class="col-md-2 logo " id="">
+                        <div class="pull-left left-bar">
+                            <a href="<%=Url.Action("Index", "Home")%>" class="">
+                                <img class="user-image img-responsive-logo" src="../../Content/img/logos.png" style="border-radius: 0px;">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-md-6 tagline" id="">
+                        <h2 id="hmpage" style="margin-left: 340px;"><span style="color: #fff; font-family: 'Times New Roman'; font-size: 27px;">PACE Homepage</span></h2>
+                        <div id="beta" class="wow fadeInDown">
+                            <div style="transform: rotate(-45deg); color: #fff;">Beta</div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 ">
+                        <div id="popalert" class="alert-info" style="display: none;">
+                            <span class="close" data-dismiss="alert">&times;</span><p style="text-align: center"></p>
+                        </div>
+                    </div>
+                    <div class="col-md-1 " id="avtar">
+                        <div class="pull-right top-menu">
+                          <%--  <%Html.RenderPartial("HeaderViews/ProfileLogo"); %>--%>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+   <div id="customBox">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <footer class="midnight-blue" id="footer">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-12">
+                © 2016 <a title="PharmaAce" href="#" target="_blank">PharmaACE</a>. All Rights Reserved.
+            </div>
+        </div>
+    </div>
+</footer>
+    <span id="top-link-block" class="hidden">
+    <a href="#top" class="well well-sm"  onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
+        <i class="glyphicon glyphicon-chevron-up"></i> Back to Top
+    </a>
+</span>	
+    <script>
+        $(document).ready(function () {
+            //start Notification code
+            //window.setInterval(function () {
+            //    GetNotifications()
+            //}, 5000);
+            //Ends Notification code
+        
+            $("#btnprofile").tooltip({ selector: '[data-tool-tip=tooltip]' });
+            var tooltiptitle = '<%= Session["User"] %>';
+            $("#btnprofile").attr("title", tooltiptitle);
+            $('ul.nav > li').each(function () {
+                if (window.location.href.indexOf($(this).find('a:first').attr('href')) > -1) {
+                    $(this).addClass('active').siblings().removeClass('active');
+                }
+            });
+            $('#example').DataTable();
+        });
+        //function GetNotifications() {
+        //    PHARMAACE.FORECASTAPP.SERVICE.getJsonData("/Home/GetUserNotification", null,
+        //        function (result) {
+        //            if (result.success) {
+        //                PHARMAACE.FORECASTAPP.UTILITY.populateNotificationList(result.notifications)
+        //            }
+        //        });
+        //}
+    </script>
+    <asp:ContentPlaceHolder ID="ScriptsSection" runat="server">
+      
+    </asp:ContentPlaceHolder>
+</body>
+</html>

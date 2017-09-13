@@ -1,0 +1,98 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>
+        <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
+    </title>
+   <%-- <link href="../../Content/CSS/core.css" rel="stylesheet" media="screen" type="text/css">--%>
+    <link href="<%: Url.Content("~/favicon.ico") %>" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+ 
+    <%: Styles.Render("~/Content/KMSiteMasterCSS")  %>
+     
+  
+     <script type="text/javascript" src="../../Scripts/custom/PharmaACE.ForecastApp.Service.js"></script>
+    <%: Scripts.Render( "~/Scripts/KMSiteMasterScript")%>
+     <script src="../../Scripts/custom/PharmaACE.ForecastApp.Notification.js"></script>
+     <script src="../../Scripts/lib/bootstrap/bootstrap-select.min.js"></script>
+       <link href="../../Content/CSS/bootstrap-select.min.css" rel="stylesheet" />
+    <script type="text/javascript">
+        $(document).ready(function () {
+            localStorage.removeItem('selectedolditem');
+            $('.img-zoom').hover(function () {
+                $(this).addClass('transition');
+            }, function () {
+                $(this).removeClass('transition');
+            });
+            if (PHARMAACE.FORECASTAPP.UTILITY.isIE() == false)
+                $("body").tooltip({ selector: '[data-toggle=tooltip]' });
+        });
+    </script>
+   
+</head>
+<body>
+    <%Html.RenderAction("RenderHeader", "Header", new { headerType ="KM" }); %>
+    <div id="customBox">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <footer id="footer" class="midnight-blue footer-navigation">
+        <div class="container-fluid">
+            <div class="row">
+                
+                <div class="col-sm-6">
+                    <ul class="pull-right">
+                        <li><%: Html.ActionLink("Home", "Index", "KM") %></li>
+                        <li><%: Html.ActionLink("Disease Area", "Index", "DiseaseArea") %></li>
+                        <li><%: Html.ActionLink("Drugs", "Index", "Drugs") %></li>
+                        <li><%: Html.ActionLink("Clinical Trials", "Index", "ClinicalTrials") %></li>
+                        <li><%: Html.ActionLink("Contact", "Contact", "Home") %></li>
+                    </ul>
+                </div>
+                <div class="col-sm-6">
+                    &copy; 2016 <a target="_blank" href="#" title="PharmaAce">PharmaACE</a>. All Rights Reserved.
+                </div>
+            </div>
+        </div>
+    </footer>
+    <span id="top-link-block" class="hidden">
+        <a href="#top" class="well well-sm" onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
+            <i class="glyphicon glyphicon-chevron-up"></i>Back to Top
+        </a>
+    </span>
+    <script>
+        jQuery(document).ready(function () {
+       
+            //window.setInterval(function () {
+            //   GetNotifications();
+            //}, 5000);
+
+            $('ul.nav > li').each(function () {
+                if (window.location.href.indexOf($(this).find('a:first').attr('href')) > -1) {
+                    $(this).addClass('active').siblings().removeClass('active');
+                }
+            });
+            $(function () {
+                $('.print').click(function () {
+                    var container = 'SearchResult';
+                    $('#' + container).printArea();
+                    return false;
+                });
+            });
+            $('#exportexcel').bind('click', function (e) {
+                $('#SearchResult').tableExport({ type: 'excel', escape: 'false' });
+            });
+            $('#exportimage').bind('click', function (e) {
+                $('#SearchResult').tableExport({ type: 'png', escape: 'false' });
+            });
+        });
+
+    </script>
+    <asp:ContentPlaceHolder ID="ScriptsSection" runat="server">
+    </asp:ContentPlaceHolder>
+</body>
+</html>

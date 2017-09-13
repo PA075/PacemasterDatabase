@@ -1,0 +1,189 @@
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.XML
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.pdb
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.CodeAnalysisLog.xml
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.lastcodeanalysissucceeded
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.dll
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.dll
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Helpers.dll
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Mvc.dll
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Razor.dll
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.dll
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.pdb
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.xml
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.pdb
+G:\working - Copy\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.xml
+G:\working - Copy\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.csprojResolveAssemblyReference.cache
+G:\working - Copy\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.dll
+G:\working - Copy\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.pdb
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.XML
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.pdb
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.CodeAnalysisLog.xml
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.lastcodeanalysissucceeded
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.dll
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.dll
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Helpers.dll
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Mvc.dll
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Razor.dll
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.dll
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.pdb
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.xml
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.pdb
+G:\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.xml
+G:\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.csprojResolveAssemblyReference.cache
+G:\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.dll
+G:\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.pdb
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.XML
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.pdb
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.CodeAnalysisLog.xml
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.lastcodeanalysissucceeded
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Helpers.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Mvc.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Razor.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.pdb
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.xml
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.pdb
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.xml
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.csprojResolveAssemblyReference.cache
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.dll
+G:\7-7-17newworking\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.pdb
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.XML
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.pdb
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.CodeAnalysisLog.xml
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.lastcodeanalysissucceeded
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Helpers.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Mvc.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Razor.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.pdb
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.xml
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.pdb
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.xml
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.csprojResolveAssemblyReference.cache
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.dll
+G:\11-7-17newworking\working - Copy (4)\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.pdb
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.XML
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.pdb
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.CodeAnalysisLog.xml
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.lastcodeanalysissucceeded
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Helpers.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Mvc.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Razor.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.pdb
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.xml
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.pdb
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.xml
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.csprojResolveAssemblyReference.cache
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.dll
+G:\12-7-17newworking\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.pdb
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.XML
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.pdb
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.CodeAnalysisLog.xml
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.lastcodeanalysissucceeded
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.dll
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.dll
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Helpers.dll
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Mvc.dll
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Razor.dll
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.dll
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.pdb
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.xml
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.pdb
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.xml
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.csprojResolveAssemblyReference.cache
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.dll
+D:\project\23-8-2017\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.pdb
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.XML
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.pdb
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.CodeAnalysisLog.xml
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.lastcodeanalysissucceeded
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Helpers.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Mvc.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Razor.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.pdb
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.xml
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.pdb
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.xml
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.csprojResolveAssemblyReference.cache
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.dll
+G:\1-9-17newworking\NewPhase\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.pdb
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.XML
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.pdb
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.CodeAnalysisLog.xml
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.lastcodeanalysissucceeded
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.dll
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.dll
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Helpers.dll
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Mvc.dll
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Razor.dll
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.dll
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.pdb
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.xml
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.pdb
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.xml
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.csprojResolveAssemblyReference.cache
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.dll
+D:\project\8-9-2017\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.pdb
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.XML
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.pdb
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.CodeAnalysisLog.xml
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.Mvc.dll.lastcodeanalysissucceeded
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Helpers.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Mvc.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.Razor.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.pdb
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.HttpModule.xml
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.pdb
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\bin\Debug\Kentor.AuthServices.xml
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.csprojResolveAssemblyReference.cache
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.dll
+D:\Source-Code\11-9-2017 latest\working\Kentor.AuthServices.Mvc\obj\Debug\Kentor.AuthServices.Mvc.pdb

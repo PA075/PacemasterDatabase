@@ -1,0 +1,40 @@
+G:\working - Copy\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.XML
+G:\working - Copy\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll
+G:\working - Copy\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.pdb
+G:\working - Copy\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll.CodeAnalysisLog.xml
+G:\working - Copy\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll.lastcodeanalysissucceeded
+G:\working - Copy\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.csprojResolveAssemblyReference.cache
+G:\working - Copy\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.dll
+G:\working - Copy\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.pdb
+G:\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.XML
+G:\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll
+G:\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.pdb
+G:\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll.CodeAnalysisLog.xml
+G:\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll.lastcodeanalysissucceeded
+G:\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.csprojResolveAssemblyReference.cache
+G:\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.dll
+G:\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.pdb
+G:\7-7-17newworking\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.XML
+G:\7-7-17newworking\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll
+G:\7-7-17newworking\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.pdb
+G:\7-7-17newworking\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll.CodeAnalysisLog.xml
+G:\7-7-17newworking\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll.lastcodeanalysissucceeded
+G:\7-7-17newworking\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.csprojResolveAssemblyReference.cache
+G:\7-7-17newworking\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.dll
+G:\7-7-17newworking\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.pdb
+D:\project\23-8-2017\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.XML
+D:\project\23-8-2017\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll
+D:\project\23-8-2017\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.pdb
+D:\project\23-8-2017\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll.CodeAnalysisLog.xml
+D:\project\23-8-2017\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll.lastcodeanalysissucceeded
+D:\project\23-8-2017\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.csprojResolveAssemblyReference.cache
+D:\project\23-8-2017\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.dll
+D:\project\23-8-2017\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.pdb
+D:\project\8-9-2017\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.XML
+D:\project\8-9-2017\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll
+D:\project\8-9-2017\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.pdb
+D:\project\8-9-2017\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll.CodeAnalysisLog.xml
+D:\project\8-9-2017\working\Kentor.AuthServices\bin\Debug\Kentor.AuthServices.dll.lastcodeanalysissucceeded
+D:\project\8-9-2017\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.csprojResolveAssemblyReference.cache
+D:\project\8-9-2017\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.dll
+D:\project\8-9-2017\working\Kentor.AuthServices\obj\Debug\Kentor.AuthServices.pdb

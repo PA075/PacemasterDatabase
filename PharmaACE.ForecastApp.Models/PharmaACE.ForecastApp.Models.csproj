@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{86C041D2-12C3-478F-81ED-3152D15B07A6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PharmaACE.ForecastApp.Models</RootNamespace>
+    <AssemblyName>PharmaACE.ForecastApp.Models</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\PharmaACE.ForecastApp\bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acthar.cs" />
+    <Compile Include="ActivityList.cs" />
+    <Compile Include="AdvanceSearch.cs" />
+    <Compile Include="AdvSearch.cs" />
+    <Compile Include="AdvSearchResult.cs" />
+    <Compile Include="AnalogAnalysisEventImpactUtil.cs" />
+    <Compile Include="Assumption.cs" />
+    <Compile Include="Attachment.cs" />
+    <Compile Include="AutocompleteList.cs" />
+    <Compile Include="BIRedirectModel.cs" />
+    <Compile Include="BIReportPageModel.cs" />
+    <Compile Include="BIReports.cs" />
+    <Compile Include="CommunityPractice.cs" />
+    <Compile Include="DealData.cs" />
+    <Compile Include="DiseaseAreaSearchByTherapyArea.cs" />
+    <Compile Include="DiseaseIndicationInfo.cs" />
+    <Compile Include="DiseaseInfo.cs" />
+    <Compile Include="DiseaseTableDataRow.cs" />
+    <Compile Include="Division.cs" />
+    <Compile Include="Drug.cs" />
+    <Compile Include="ForecastCompetitor.cs" />
+    <Compile Include="ForecastEventSection.cs" />
+    <Compile Include="ForecastIO.cs" />
+    <Compile Include="ForecastPack.cs" />
+    <Compile Include="ForecastSegment.cs" />
+    <Compile Include="BDLHistoricalData.cs" />
+    <Compile Include="BDLForecastIO.cs" />
+    <Compile Include="FullTextSearch.cs" />
+    <Compile Include="GenericForecastFlatFileTemplate.cs" />
+    <Compile Include="GenericForecastTemplate.cs" />
+    <Compile Include="HistoricalData.cs" />
+    <Compile Include="NewsFeedItem.cs" />
+    <Compile Include="enum.cs" />
+    <Compile Include="EpicyclopediaUtil.cs" />
+    <Compile Include="ForecastDataPoint.cs" />
+    <Compile Include="ForecastEvent.cs" />
+    <Compile Include="GenericForecastIO.cs" />
+    <Compile Include="ForecastDetails.cs" />
+    <Compile Include="ForecastFlatFile.cs" />
+    <Compile Include="DevelopmentStatus.cs" />
+    <Compile Include="DiseaseAreaSearchResult.cs" />
+    <Compile Include="DiseaseDetails.cs" />
+    <Compile Include="DiseaseIndicationCollection.cs" />
+    <Compile Include="DiseaseList.cs" />
+    <Compile Include="ForecastParameter.cs" />
+    <Compile Include="ForecastReference.cs" />
+    <Compile Include="ForecastSection.cs" />
+    <Compile Include="ForgotPassword.cs" />
+    <Compile Include="BDLForecastEntity.cs" />
+    <Compile Include="ForumAnswer.cs" />
+    <Compile Include="ForumQuestion.cs" />
+    <Compile Include="ForumQuestionDetails.cs" />
+    <Compile Include="Notification.cs" />
+    <Compile Include="Patent.cs" />
+    <Compile Include="PatentGenericAvailability.cs" />
+    <Compile Include="ProductDetail.cs" />
+    <Compile Include="ProductNameListItem.cs" />
+    <Compile Include="ReportProduct.cs" />
+    <Compile Include="ReportForecastVersion.cs" />
+    <Compile Include="GenericHistoricalData.cs" />
+    <Compile Include="NewsFeed.cs" />
+    <Compile Include="PipelineProductDetail.cs" />
+    <Compile Include="ForecastProduct.cs" />
+    <Compile Include="ForecastEntity.cs" />
+    <Compile Include="ForecastVersion.cs" />
+    <Compile Include="GenericForecastEntity.cs" />
+    <Compile Include="HistoricalTrendlineUtil.cs" />
+    <Compile Include="Indications.cs" />
+    <Compile Include="LinkDetail.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="MediaManagement.cs" />
+    <Compile Include="NewsDetails.cs" />
+    <Compile Include="PatentDetail.cs" />
+    <Compile Include="ProductDetailBase.cs" />
+    <Compile Include="ProductPenetration.cs" />
+    <Compile Include="ForecastVersionDetail.cs" />
+    <Compile Include="ProjectVersion.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="IndicationList.cs" />
+    <Compile Include="BlobUploadResult.cs" />
+    <Compile Include="ReportSettings.cs" />
+    <Compile Include="ForecastScenario.cs" />
+    <Compile Include="SecondaryIndication.cs" />
+    <Compile Include="SectionData.cs" />
+    <Compile Include="SendMailInfo.cs" />
+    <Compile Include="SensitivityAndTornadoUtil.cs" />
+    <Compile Include="SetNewPassword.cs" />
+    <Compile Include="ShareBuilderUtil.cs" />
+    <Compile Include="ShareModel.cs" />
+    <Compile Include="SignUp.cs" />
+    <Compile Include="SingleSignInResult.cs" />
+    <Compile Include="ForecastSKU.cs" />
+    <Compile Include="StageList.cs" />
+    <Compile Include="SubscriberInfo.cs" />
+    <Compile Include="SubscriberListModel.cs" />
+    <Compile Include="SubscriberRegistrationInfo.cs" />
+    <Compile Include="TherapyAreas.cs" />
+    <Compile Include="TopHeader.cs" />
+    <Compile Include="TopRibbon.cs" />
+    <Compile Include="TrackerData.cs" />
+    <Compile Include="UpdatePassword.cs" />
+    <Compile Include="UpdateUserProfile.cs" />
+    <Compile Include="UserForecastMapping.cs" />
+    <Compile Include="UserInfo.cs" />
+    <Compile Include="UserInfoForBrowserSetting.cs" />
+    <Compile Include="UserProfile.cs" />
+    <Compile Include="SelectedForecastVersion.cs" />
+    <Compile Include="UWActivityReporting.cs" />
+    <Compile Include="UWFile.cs" />
+    <Compile Include="UWFolder.cs" />
+    <Compile Include="UWUserMapping.cs" />
+    <Compile Include="WaterfallChartUtil.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

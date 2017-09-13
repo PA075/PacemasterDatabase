@@ -1,0 +1,108 @@
+/* 
+ * overlay.css v1.0.0
+ * Copyright 2014 Joah Gerstenberg (www.joahg.com)
+ */
+.overlay {
+  visibility: hidden;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: 10;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.85);
+  cursor: pointer;
+  -webkit-transition: opacity 0.3s ease-in-out;
+  -moz-transition: opacity 0.3s ease-in-out;
+  -ms-transition: opacity 0.3s ease-in-out;
+  -o-transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
+}
+.overlay .modal {
+  cursor: auto;
+  position: absolute;
+  z-index: 11;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  /*left: 0;*/
+/*Changed By NITIN*/
+  left:350px;
+  margin: auto;
+  max-width: 500px;
+  max-height: 300px;
+  padding: 8px;
+  background-color: rgb(255,255,255);
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  border:1px solid #696962;
+  background-color:#E9E9E9;
+}
+.pop-content{
+    padding: 8px;
+    border-image: none;
+    background-color: rgb(255, 255, 255);
+    min-height:285px;
+    max-height:285px;
+}
+.overlay.shown {
+  opacity: 1;
+}
+/* Custom CSS */
+.pclose{color:red;
+        float:right;
+        font-size:18px;
+        margin-top:-10px;
+        margin-right:-7px;
+        text-decoration:none;
+        padding:3px;
+        border-radius:5px solid #000 !important;
+         -webkit-border-radius: 3px;
+}
+.overlay{ font-family:Arial;}
+.divChkuser {
+    line-height:1.7em;
+    float:left;
+    position:relative;
+    width:50%;
+}
+#shareDocument, #submitbutton {
+    clear:both;
+    display:block !important;
+    margin:0 auto;
+    position:relative;
+    background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 12;
+  -moz-border-radius: 12;
+  border-radius: 12px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  border:none;
+    -webkit-border-radius:none !important;
+}
+#shareDocument:hover, #submitbutton:hover{ /*background-color:#808080;border:1px solid #000;
+           background:-webkit-gradient(linear, left top, left bottom, from(#808080), to(#EBEBEB)); color:#fff;*/
+ background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+  border:none;
+}
+.clsPeople{ padding-bottom:0px; position:relative; float:left;}
+#shareModal{ padding:1px;}

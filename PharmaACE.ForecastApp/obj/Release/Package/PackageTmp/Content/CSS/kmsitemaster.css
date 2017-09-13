@@ -1,0 +1,7 @@
+﻿.sidebar-collapse > .nav > li > a {
+            padding: 5px 5px !important;
+            font-size: 13.7px;
+        }
+        .panel-default {
+            border-color: #ddd;
+        }

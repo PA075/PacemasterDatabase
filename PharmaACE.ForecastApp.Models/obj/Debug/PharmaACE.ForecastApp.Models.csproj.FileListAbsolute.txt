@@ -1,0 +1,160 @@
+D:\SourceCode\Repo\New\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\Repo\New\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\SourceCode\Repo\New\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\Repo\New\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\New\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\New\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\New\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\SourceCode\New\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\New\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\4\New\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\4\New\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\4\New\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\SourceCode\4\New\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\4\New\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\Backup\05-05-2017\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\SourceCode\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\1\New - Copy - Copy - Copy (2)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\16-6-2015newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\16-6-2015newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\16-6-2015newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\16-6-2015newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\16-6-2015newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\19-6-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\19-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\19-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\19-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\20-6-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\20-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\20-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\20-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\22-6-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\22-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\22-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\22-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\26-6-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\26-6-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\26-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\26-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\26-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\26-6-17newworking\working - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\28-6-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\28-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\28-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\28-6-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+E:\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+E:\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+E:\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+E:\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+E:\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\working - Copy\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\working - Copy\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\working - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\working - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\working - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\7-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\7-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\7-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\7-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\11-7-17newworking\working - Copy (4)\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\11-7-17newworking\working - Copy (5) - Copy - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\12-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\12-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\12-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\19-9-17newworking\working - Copy\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\27-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\27-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\27-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\27-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\27-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\28-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\28-7-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\28-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\28-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\28-7-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\2-8-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\2-8-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\2-8-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\2-8-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\10-8-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\10-8-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\10-8-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\10-8-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\18-8-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\18-8-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\18-8-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\18-8-17newworking\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\project\23-8-2017\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\project\23-8-2017\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\project\23-8-2017\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\project\23-8-2017\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\Source-Code\latest\latest\abc\NewPhase\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+G:\1-9-17newworking\NewPhase\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\project\8-9-2017\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\project\8-9-2017\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\project\8-9-2017\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\project\8-9-2017\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp\bin\PharmaACE.ForecastApp.Models.pdb
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.csprojResolveAssemblyReference.cache
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.dll
+D:\Source-Code\11-9-2017 latest\working\PharmaACE.ForecastApp.Models\obj\Debug\PharmaACE.ForecastApp.Models.pdb

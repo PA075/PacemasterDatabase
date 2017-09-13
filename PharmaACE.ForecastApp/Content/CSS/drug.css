@@ -1,0 +1,36 @@
+﻿.ui-helper-hidden-accessible{display:none;}
+#drgfirstrow td{font-weight:bold; text-align:center;}
+#tblthead input, #tblthead select{max-width:150px;}
+#tblthead input[type=text]{margin-bottom:3px;}
+.ui-autocomplete {
+max-height: 100px;
+overflow-y: auto;
+/* prevent horizontal scrollbar */
+overflow-x: hidden;
+margin:0px; padding:0px;
+max-width:218px !important;
+z-index:9999;
+}
+.ui-autocomplete li{overflow:hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding-left:5px !important
+
+
+}
+.ui-autocomplete li:hover{ border:0px solid red !important; padding-left:5px !important; margin:0px;}
+/* IE 6 doesn't support max-height
+* we use height instead, but this forces the menu to always be this tall
+*/
+* html .ui-autocomplete {
+height: 100px;
+max-width:230px !important;
+border:1px solid #888;
+
+}
+.ui-autocomplete{ font-size:10px; }
+ tfoot input {
+            width: 100%;
+            padding: 3px;
+            box-sizing: border-box;
+        }

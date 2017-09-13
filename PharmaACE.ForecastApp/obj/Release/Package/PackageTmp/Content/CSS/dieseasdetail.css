@@ -1,0 +1,74 @@
+﻿ #breadcrumb {
+            display: none;
+        }
+
+        #disarea .display-label {
+            width: 100%;
+            float: left;
+            position: relative;
+            clear: both;
+        }
+
+        #disarea h2 {
+            float: left;
+        }
+
+        #disarea .display-field {
+            word-break: keep-all;
+        }
+
+        #disarea .htmlEdit {
+            margin-top: 14px;
+            margin-left: 15px;
+            display: none;
+            /* display: inline-block*/;
+        }
+
+        #disarea .tab-content h2 {
+            margin-top: 10px;
+        }
+
+        #disarea .tab-content {
+            padding: 0px;
+        }
+
+        .note-editor {
+            margin-bottom: 15px !important;
+        }
+
+            .note-editor.note-frame {
+                width: 100%;
+                float: left;
+                margin-bottom: 0px;
+            }
+
+        .note-editable {
+            height: 300px !important;
+        }
+
+            .note-editable p {
+                line-height: 22px;
+                font-size: 14px;
+            }
+
+        .comforDiv {
+            width: 100%;
+            clear: both;
+        }
+
+        .alnRight {
+            float: right;
+        }
+
+            .alnRight .btn {
+                margin-top: 0px;
+                display: none;
+            }
+
+        .alignleft {
+            padding-right: 8px;
+        }
+
+        #forSlider {
+            display: none;
+        }

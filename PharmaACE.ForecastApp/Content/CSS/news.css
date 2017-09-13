@@ -1,0 +1,133 @@
+﻿#container{text-align:left;overflow:hidden;margin:0;padding:0;width:100%;height:350px;font-family:Arial, Helvetica, sans-serif;font-size:11px;border:0px solid #CCCCCC;}
+    #header{margin:0px;padding:5px 0px 5px 0px;color:#428bca;background-color:#ffffff;background-image:none;}
+    #header .feed_title{margin:0;padding:0;font-weight:bold;word-wrap:break-word; background-color:#303333; margin-bottom:0px; margin-top:-5px; padding:8px 6px; text-align:left;}
+    #header .feed_title a:link{color:#428bca;text-decoration:none;}
+    #header .feed_title a:visited{color:#428bca;text-decoration:none;}
+    #header .feed_title a:hover{color:#428bca;text-decoration:underline;}
+    #header .feed_title a:active{color:#428bca;text-decoration:none;}
+    #content{overflow:hidden;padding:5px 0px 0px 0px;background-color:#fff;background-image:none;}
+    #content .feed_item{margin:0 0 7px 0;padding:0 0 7px 0;border-bottom:1px dashed #CCCCCC;clear:both;}
+    #content .feed_item_title{margin:1px 0 1px 3px;padding:5px 2px 1px 3px;color:#999999;font-weight:bold;}
+    #content .feed_item_title a:link{color:#999999;text-decoration:none;}
+    #content .feed_item_title a:visited{color:#999999;text-decoration:none;}
+    #content .feed_item_title a:hover
+    {
+        text-decoration:underline; text-decoration: none;
+        color: #428bca;
+        /*background-image: url('../img/navi-bg.png');*/
+        background-repeat: repeat-x;
+    }
+    #content .feed_item_title a:active{color:#999999;text-decoration:none;}
+    #content .feed_item_podcast{margin:0 0 0 3px;padding:0 0 0 3px;}
+    #content .feed_item_date{margin:0 0 0 3px;padding:0 2px 0 3px;color:#000;overflow:hidden;text-overflow:ellipsis;clear:both;}
+    #content .feed_item_link{margin:0 0 0 3px;padding:0 2px 0 3px;color:#FFFFFF;overflow:hidden;text-overflow:ellipsis;clear:both;}
+    #content .feed_item_link a:link{color:#999999; text-decoration:none;}
+    #content .feed_item_link a:visited{color:#FFFFFF; text-decoration:none;}
+    #content .feed_item_link a:hover{color:#FFFFFF; text-decoration:none;}
+    #content .feed_item_link a:active{color:#FFFFFF; text-decoration:none;}
+    #content .feed_item_description{overflow:hidden;margin:0 20px 0 3px;padding:0 2px 0 3px;color:#000;line-height:135%;word-wrap:break-word;clear:both;}
+    #content .feed_item_thumbnail{width:110px; height:100px; float:left; margin:5px; overflow:hidden;}
+    #footer{display:none;height:0px;margin:0px;padding:0px;color:#428bca;background-color:#fff;background-image:none;}
+    .scroll-pane{width: 100%;overflow:auto;}
+    #feedContainer iframe .feed_title{ text-align:left !important;}
+    .jspContainer
+{
+	overflow: hidden;
+	position: relative;
+}
+.jspPane
+{
+  padding: 5 0 0 0!important;
+	position: absolute;
+}
+.jspVerticalBar
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 10px;
+	height: 100%;
+	background: red;
+}
+/*
+.jspHorizontalBar
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 16px;
+	background: red;
+}
+*/
+.jspCap
+{
+	display: none;
+}
+.jspHorizontalBar .jspCap
+{
+	float: left;
+}
+.jspTrack
+{
+	background: #eee;
+	position: relative;
+}
+.jspDrag
+{
+	background: #ccc;
+	position: relative;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+}
+.jspHorizontalBar .jspTrack,
+.jspHorizontalBar .jspDrag
+{
+	float: left;
+	height: 100%;
+}
+.jspArrow
+{
+	background: #50506d;
+	text-indent: -20000px;
+	display: block;
+	cursor: pointer;
+	padding: 0;
+	margin: 0;
+}
+.jspArrow.jspDisabled
+{
+	cursor: default;
+	background: #80808d;
+}
+.jspVerticalBar .jspArrow
+{
+	height: 16px;
+}
+.jspHorizontalBar .jspArrow
+{
+	width: 10px;
+	float: left;
+	height: 100%;
+}
+.jspVerticalBar .jspArrow:focus
+{
+	outline: none;
+}
+.jspCorner
+{
+	background: #eeeef4;
+	float: left;
+	height: 100%;
+}
+/* Yuk! CSS Hack for IE6 3 pixel bug :( */
+* html .jspCorner
+{
+	margin: 0 -3px 0 0;
+}
+#header .feed_title a{ font-size:15px; font-weight:bold; color:#fff !important; } 
+#content .feed_item:nth-child(2n+1){
+    background-color:#f5f5f5;
+}
+#content .feed_item:nth-child(2n+1) .feed_item_date{ color:#000;}
